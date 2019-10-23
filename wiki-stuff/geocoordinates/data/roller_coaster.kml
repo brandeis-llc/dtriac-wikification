@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Roller Coaster]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Double Tracks]]></name>
+			<Point>
+				<coordinates>-116.98715,37.70527,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Roller_Coaster#Double_Tracks">Operation Roller Coaster</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clean Slate I]]></name>
+			<Point>
+				<coordinates>-116.65786,37.70853,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Roller_Coaster#Clean_Slate_I">Operation Roller Coaster</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clean Slate II]]></name>
+			<Point>
+				<coordinates>-116.61378,37.7614,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Roller_Coaster#Clean_Slate_II">Operation Roller Coaster</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clean Slate III]]></name>
+			<Point>
+				<coordinates>-116.68123,37.75914,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Roller_Coaster#Clean_Slate_III">Operation Roller Coaster</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Bowline]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Spud]]></name>
+			<Point>
+				<coordinates>-115.99962,37.00095,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Spud">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tanya]]></name>
+			<Point>
+				<coordinates>-116.08312,37.13317,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tanya">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Imp]]></name>
+			<Point>
+				<coordinates>-116.07808,37.16176,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Imp">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rack]]></name>
+			<Point>
+				<coordinates>-116.0491,37.12373,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Rack">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Diana Moon]]></name>
+			<Point>
+				<coordinates>-115.93195,36.87718,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Diana_Moon">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sled]]></name>
+			<Point>
+				<coordinates>-116.34777,37.25028,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Sled">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Noggin]]></name>
+			<Point>
+				<coordinates>-116.04824,37.13597,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Noggin">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Knife-A]]></name>
+			<Point>
+				<coordinates>-116.01237,37.03178,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Knife-A">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stoddard]]></name>
+			<Point>
+				<coordinates>-116.12835,37.11981,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Stoddard">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hudson Seal]]></name>
+			<Point>
+				<coordinates>-116.20727,37.20473,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Hudson_Seal">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Welder]]></name>
+			<Point>
+				<coordinates>-116.03048,37.04665,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Welder">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Knife-C]]></name>
+			<Point>
+				<coordinates>-115.99396,37.02591,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Knife-C">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vat]]></name>
+			<Point>
+				<coordinates>-116.04318,37.13327,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Vat">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hula]]></name>
+			<Point>
+				<coordinates>-116.0418,37.11321,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Hula">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bit - 1]]></name>
+			<Point>
+				<coordinates>-116.03021,37.04701,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Bit">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bit - 2]]></name>
+			<Point>
+				<coordinates>-116.03034,37.04699,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Bit">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[File]]></name>
+			<Point>
+				<coordinates>-116.03649,37.01708,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#File">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crew - 1]]></name>
+			<Point>
+				<coordinates>-116.08738,37.13043,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Crew">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crew - 2]]></name>
+			<Point>
+				<coordinates>-116.08738,37.13042,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Crew">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Auger]]></name>
+			<Point>
+				<coordinates>-116.00058,37.04765,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Auger">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Knife-B]]></name>
+			<Point>
+				<coordinates>-116.03412,37.02609,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Knife-B">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ming Vase]]></name>
+			<Point>
+				<coordinates>-116.2072,37.00973,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Ming_Vase">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tinderbox]]></name>
+			<Point>
+				<coordinates>-116.04312,37.13987,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tinderbox">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Schooner]]></name>
+			<Point>
+				<coordinates>-116.56661,37.34326,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Schooner">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bay Leaf]]></name>
+			<Point>
+				<coordinates>-116.03104,37.04702,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Bay_Leaf">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 1]]></name>
+			<Point>
+				<coordinates>-116.08145,37.1209,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 2]]></name>
+			<Point>
+				<coordinates>-116.08035,37.11758,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 3]]></name>
+			<Point>
+				<coordinates>-116.07788,37.11804,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 4]]></name>
+			<Point>
+				<coordinates>-116.0791,37.12124,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 5]]></name>
+			<Point>
+				<coordinates>-116.07744,37.11985,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tyg - 6]]></name>
+			<Point>
+				<coordinates>-116.08278,37.11879,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tyg">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scissors]]></name>
+			<Point>
+				<coordinates>-116.04,37.00391,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Scissors">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Benham]]></name>
+			<Point>
+				<coordinates>-116.47448,37.23142,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Benham">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Packard]]></name>
+			<Point>
+				<coordinates>-116.06654,37.14787,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Packard">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wineskin]]></name>
+			<Point>
+				<coordinates>-116.22627,37.20909,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Wineskin">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shave]]></name>
+			<Point>
+				<coordinates>-115.99516,37.01544,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Shave">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vise]]></name>
+			<Point>
+				<coordinates>-116.02998,37.0533,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Vise">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Biggin]]></name>
+			<Point>
+				<coordinates>-116.04113,37.13326,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Biggin">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nipper]]></name>
+			<Point>
+				<coordinates>-116.01,37.00262,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Nipper">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Winch]]></name>
+			<Point>
+				<coordinates>-116.04304,37.00941,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Winch">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cypress]]></name>
+			<Point>
+				<coordinates>-116.2116,37.16901,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Cypress">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Valise]]></name>
+			<Point>
+				<coordinates>-116.04171,37.13909,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Valise">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chatty]]></name>
+			<Point>
+				<coordinates>-116.07679,37.16224,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Chatty">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barsac]]></name>
+			<Point>
+				<coordinates>-116.03098,37.02203,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Barsac">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coffer]]></name>
+			<Point>
+				<coordinates>-116.0876,37.13325,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Coffer">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gourd-Amber - 1]]></name>
+			<Point>
+				<coordinates>-116.08061,37.16393,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Gourd-Amber">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gourd-Brown - 2]]></name>
+			<Point>
+				<coordinates>-116.08186,37.15998,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Gourd-Brown">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Blenton]]></name>
+			<Point>
+				<coordinates>-116.01481,37.08145,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Blenton">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Thistle]]></name>
+			<Point>
+				<coordinates>-116.00651,37.09023,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Thistle">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Purse]]></name>
+			<Point>
+				<coordinates>-116.50153,37.28283,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Purse">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Aliment]]></name>
+			<Point>
+				<coordinates>-115.98583,37.01185,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Aliment">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ipecac - 1]]></name>
+			<Point>
+				<coordinates>-116.00292,37.01498,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Ipecac">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ipecac - 2]]></name>
+			<Point>
+				<coordinates>-116.00086,37.01482,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Ipecac">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Torrido]]></name>
+			<Point>
+				<coordinates>-115.99617,37.07506,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Torrido">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tapper]]></name>
+			<Point>
+				<coordinates>-116.03109,37.00879,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Tapper">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bowl - 1]]></name>
+			<Point>
+				<coordinates>-116.07949,37.16244,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Bowl">Operation Bowline</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bowl - 2]]></name>
+			<Point>
+				<coordinates>-116.0801,37.16072,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bowline#Bowl">Operation Bowline</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

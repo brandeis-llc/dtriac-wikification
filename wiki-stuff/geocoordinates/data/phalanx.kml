@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Phalanx]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Seyval]]></name>
+			<Point>
+				<coordinates>-116.03272,37.02323,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Seyval">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Manteca]]></name>
+			<Point>
+				<coordinates>-116.07276,37.08014,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Manteca">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coalora]]></name>
+			<Point>
+				<coordinates>-116.04613,37.05622,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Coalora">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cheedam]]></name>
+			<Point>
+				<coordinates>-116.06409,37.16281,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Cheedam">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cabra]]></name>
+			<Point>
+				<coordinates>-116.46092,37.30063,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Cabra">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Turquoise]]></name>
+			<Point>
+				<coordinates>-116.04682,37.07279,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Turquoise">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crowdie]]></name>
+			<Point>
+				<coordinates>-116.09021,37.14567,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Crowdie">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mini Jade]]></name>
+			<Point>
+				<coordinates>-116.20599,37.20821,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Mini_Jade">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fahada]]></name>
+			<Point>
+				<coordinates>-116.00657,37.10286,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Fahada">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Danablu]]></name>
+			<Point>
+				<coordinates>-116.0901,37.15757,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Danablu">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Laban]]></name>
+			<Point>
+				<coordinates>-116.08989,37.11904,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Laban">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sabado]]></name>
+			<Point>
+				<coordinates>-116.00338,36.99766,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Sabado">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jarlsberg]]></name>
+			<Point>
+				<coordinates>-116.03491,37.19289,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Jarlsberg">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chancellor]]></name>
+			<Point>
+				<coordinates>-116.35591,37.27272,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Chancellor">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tomme/Midnight Zephyr]]></name>
+			<Point>
+				<coordinates>-116.21013,37.20969,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Tomme%2FMidnight_Zephyr">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Branco - 1]]></name>
+			<Point>
+				<coordinates>-116.05645,37.12131,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Branco">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Techado]]></name>
+			<Point>
+				<coordinates>-116.05026,37.10556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Techado">Operation Phalanx</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Navata]]></name>
+			<Point>
+				<coordinates>-116.02109,37.05338,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Phalanx#Navata">Operation Phalanx</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Aqueduct]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Hornitos]]></name>
+			<Point>
+				<coordinates>-116.49161,37.26305,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Hornitos">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Muleshoe]]></name>
+			<Point>
+				<coordinates>-116.01425,37.10647,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Muleshoe">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whiteface - 1]]></name>
+			<Point>
+				<coordinates>-116.03197,37.02584,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Whiteface">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Metropolis]]></name>
+			<Point>
+				<coordinates>-116.05605,37.11246,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Metropolis">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bowie]]></name>
+			<Point>
+				<coordinates>-115.99288,37.06765,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Bowie">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bullion]]></name>
+			<Point>
+				<coordinates>-116.42101,37.26155,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Bullion">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Justin]]></name>
+			<Point>
+				<coordinates>-116.00536,36.99279,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Justin">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mineral Quarry - 2]]></name>
+			<Point>
+				<coordinates>-116.21514,37.20682,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Mineral_Quarry">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sundown - 1]]></name>
+			<Point>
+				<coordinates>-116.05756,37.0382,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Sundown">Operation Aqueduct</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ledoux]]></name>
+			<Point>
+				<coordinates>-116.05899,37.00695,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Aqueduct#Ledoux">Operation Aqueduct</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

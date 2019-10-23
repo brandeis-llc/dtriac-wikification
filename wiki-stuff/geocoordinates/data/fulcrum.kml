@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Fulcrum]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Gouda]]></name>
+			<Point>
+				<coordinates>-116.06315,37.13451,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Gouda">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sprit]]></name>
+			<Point>
+				<coordinates>-116.01816,37.03593,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Sprit">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chevre]]></name>
+			<Point>
+				<coordinates>-116.0535,37.17167,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Chevre">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Redmud]]></name>
+			<Point>
+				<coordinates>-116.00249,37.07922,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Redmud">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Asiago]]></name>
+			<Point>
+				<coordinates>-116.06833,37.12386,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Asiago">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sutter]]></name>
+			<Point>
+				<coordinates>-116.06454,37.15205,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Sutter">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rudder]]></name>
+			<Point>
+				<coordinates>-116.03755,37.1004,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Rudder">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cove - 1]]></name>
+			<Point>
+				<coordinates>-116.0321,37.00662,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Cove">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Oarlock - 2]]></name>
+			<Point>
+				<coordinates>-116.02937,37.01346,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Oarlock">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dofino - 1]]></name>
+			<Point>
+				<coordinates>-116.05385,37.17616,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Dofino">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Marsilly]]></name>
+			<Point>
+				<coordinates>-116.06315,37.12019,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Marsilly">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bulkhead]]></name>
+			<Point>
+				<coordinates>-116.02875,37.09474,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Bulkhead">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crewline]]></name>
+			<Point>
+				<coordinates>-116.04574,37.0943,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Crewline">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Forefoot]]></name>
+			<Point>
+				<coordinates>-116.02583,37.0549,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Forefoot">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carnelian]]></name>
+			<Point>
+				<coordinates>-116.09182,37.09751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Carnelian">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Strake]]></name>
+			<Point>
+				<coordinates>-116.00774,37.08652,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Strake">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gruyere - 1]]></name>
+			<Point>
+				<coordinates>-116.04996,37.14512,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Gruyere">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Flotost]]></name>
+			<Point>
+				<coordinates>-116.06402,37.14669,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Flotost">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scupper]]></name>
+			<Point>
+				<coordinates>-116.03248,37.01757,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Scupper">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scantling]]></name>
+			<Point>
+				<coordinates>-116.05567,37.10997,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Scantling">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ebbtide]]></name>
+			<Point>
+				<coordinates>-116.044,37.03274,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Ebbtide">Operation Fulcrum</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coulommiers]]></name>
+			<Point>
+				<coordinates>-116.06843,37.15112,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fulcrum#Coulommiers">Operation Fulcrum</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

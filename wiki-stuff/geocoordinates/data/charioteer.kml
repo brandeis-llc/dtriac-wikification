@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Charioteer]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Mill Yard]]></name>
+			<Point>
+				<coordinates>-116.20615,37.20862,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Mill_Yard">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Diamond Beech]]></name>
+			<Point>
+				<coordinates>-116.21097,37.20962,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Diamond_Beech">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Roquefort]]></name>
+			<Point>
+				<coordinates>-116.12309,37.1103,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Roquefort">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Abo]]></name>
+			<Point>
+				<coordinates>-116.03687,37.05057,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Abo">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Goldstone]]></name>
+			<Point>
+				<coordinates>-116.47364,37.23775,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Goldstone">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Glencoe]]></name>
+			<Point>
+				<coordinates>-116.06691,37.08296,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Glencoe">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mighty Oak]]></name>
+			<Point>
+				<coordinates>-116.18353,37.21827,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Mighty_Oak">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mogollon]]></name>
+			<Point>
+				<coordinates>-116.04679,37.01164,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Mogollon">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jefferson]]></name>
+			<Point>
+				<coordinates>-116.44109,37.26406,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Jefferson">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Panamint]]></name>
+			<Point>
+				<coordinates>-116.06126,37.12499,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Panamint">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tajo]]></name>
+			<Point>
+				<coordinates>-116.01618,37.09842,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Tajo">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cybar]]></name>
+			<Point>
+				<coordinates>-116.35649,37.27862,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Cybar">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cornucopia]]></name>
+			<Point>
+				<coordinates>-116.07199,37.1427,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Cornucopia">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Galveston]]></name>
+			<Point>
+				<coordinates>-116.36864,37.23968,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Galveston">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Aleman]]></name>
+			<Point>
+				<coordinates>-116.05056,37.06903,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Aleman">Operation Charioteer</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Labquark]]></name>
+			<Point>
+				<coordinates>-116.30831,37.30003,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Charioteer#Labquark">Operation Charioteer</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

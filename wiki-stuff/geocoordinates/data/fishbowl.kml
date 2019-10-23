@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Fishbowl]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Table]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Launch Starfish Prime]]></name>
+			<Point>
+				<coordinates>-169.52534,16.73365,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-2">Operation Fishbowl</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Starfish Prime]]></name>
+			<Point>
+				<coordinates>-169.63008,16.46842,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-2">Operation Fishbowl</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Checkmate]]></name>
+			<Point>
+				<coordinates>-169.60997,16.07239,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-6">Operation Fishbowl</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bluegill Triple Prime]]></name>
+			<Point>
+				<coordinates>-169.60311,16.41583,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-7">Operation Fishbowl</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kingfish]]></name>
+			<Point>
+				<coordinates>-169.68222,16.1135,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-8">Operation Fishbowl</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tightrope]]></name>
+			<Point>
+				<coordinates>-169.54242,16.70742,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl#cite_ref-LT_215_36-9">Operation Fishbowl</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

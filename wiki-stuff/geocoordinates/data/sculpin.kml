@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Sculpin]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Tenabo]]></name>
+			<Point>
+				<coordinates>-116.4951,37.24781,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Tenabo">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coso-Bronze - 1]]></name>
+			<Point>
+				<coordinates>-116.07486,37.10436,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Coso-Bronze">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bexar]]></name>
+			<Point>
+				<coordinates>-116.31379,37.29603,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Bexar">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Montello]]></name>
+			<Point>
+				<coordinates>-116.44252,37.24538,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Montello">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Floydada]]></name>
+			<Point>
+				<coordinates>-116.00266,37.08729,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Floydada">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hoya]]></name>
+			<Point>
+				<coordinates>-116.42902,37.22558,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Hoya">Operation Sculpin</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Distant Zenith]]></name>
+			<Point>
+				<coordinates>-116.16731,37.23568,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sculpin#Distant_Zenith">Operation Sculpin</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

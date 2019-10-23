@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Plumbbob]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[List of tests]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Boltzmann]]></name>
+			<Point>
+				<coordinates>-116.0245,37.0947,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Boltzmann">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Franklin]]></name>
+			<Point>
+				<coordinates>-116.022,37.0477,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Franklin">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lassen]]></name>
+			<Point>
+				<coordinates>-116.0417,37.1347,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Lassen">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Priscilla]]></name>
+			<Point>
+				<coordinates>-115.9298,36.798,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Priscilla">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coulomb-A]]></name>
+			<Point>
+				<coordinates>-116.034,37.053,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Coulomb-A">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Diablo]]></name>
+			<Point>
+				<coordinates>-116.1095,37.1502,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Diablo">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Launch John]]></name>
+			<Point>
+				<coordinates>-116.0539,37,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#John">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[John]]></name>
+			<Point>
+				<coordinates>-116.0539,37.1605,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#John">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kepler]]></name>
+			<Point>
+				<coordinates>-116.10354,37.09549,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Kepler">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pascal-A]]></name>
+			<Point>
+				<coordinates>-116.03415,37.05175,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Pascal-A">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stokes]]></name>
+			<Point>
+				<coordinates>-116.0245,37.0866,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Stokes">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Saturn]]></name>
+			<Point>
+				<coordinates>-116.20059,37.19355,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Saturn">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shasta]]></name>
+			<Point>
+				<coordinates>-116.1073,37.128,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Shasta">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pascal-B]]></name>
+			<Point>
+				<coordinates>-116.0347,37.04903,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Pascal-B">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Smokey]]></name>
+			<Point>
+				<coordinates>-116.06887,37.18712,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Smokey">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Galileo]]></name>
+			<Point>
+				<coordinates>-116.1034,37.053,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Galileo">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coulomb-B]]></name>
+			<Point>
+				<coordinates>-116.0277,37.0427,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Coulomb-B">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fizeau]]></name>
+			<Point>
+				<coordinates>-116.0323,37.0336,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Fizeau">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rainier]]></name>
+			<Point>
+				<coordinates>-116.20404,37.19573,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Rainier">Operation Plumbbob</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whitney]]></name>
+			<Point>
+				<coordinates>-116.1184,37.1383,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Plumbbob#Whitney">Operation Plumbbob</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

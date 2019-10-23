@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Grenadier]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Vermejo]]></name>
+			<Point>
+				<coordinates>-116.0537,37.08516,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Vermejo">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Villita]]></name>
+			<Point>
+				<coordinates>-116.01816,37.00003,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Villita">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tierra]]></name>
+			<Point>
+				<coordinates>-116.30629,37.28131,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Tierra">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Minero]]></name>
+			<Point>
+				<coordinates>-116.04565,37.01192,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Minero">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vaughn]]></name>
+			<Point>
+				<coordinates>-116.0461,37.0581,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Vaughn">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cottage]]></name>
+			<Point>
+				<coordinates>-116.08983,37.17993,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Cottage">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hermosa]]></name>
+			<Point>
+				<coordinates>-116.03289,37.09476,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Hermosa">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Misty Rain]]></name>
+			<Point>
+				<coordinates>-116.20805,37.20078,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Misty_Rain">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Towanda]]></name>
+			<Point>
+				<coordinates>-116.32609,37.25335,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Towanda">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Salut]]></name>
+			<Point>
+				<coordinates>-116.48995,37.2478,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Salut">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ville]]></name>
+			<Point>
+				<coordinates>-116.0849,37.08832,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Ville">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Maribo]]></name>
+			<Point>
+				<coordinates>-116.12201,37.12372,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Maribo">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Serena]]></name>
+			<Point>
+				<coordinates>-116.43896,37.2972,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Serena">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cebrero]]></name>
+			<Point>
+				<coordinates>-116.01525,37.11103,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Cebrero">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chamita]]></name>
+			<Point>
+				<coordinates>-116.04402,37.00227,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Chamita">Operation Grenadier</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ponil]]></name>
+			<Point>
+				<coordinates>-116.00264,37.08976,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Grenadier#Ponil">Operation Grenadier</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

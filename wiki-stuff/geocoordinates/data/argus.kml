@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Argus]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[List of Argus launches]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Launch 1]]></name>
+			<Point>
+				<coordinates>-11.5,-38.5,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Argus#1">Operation Argus</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Launch 2]]></name>
+			<Point>
+				<coordinates>-8.2,-49.5,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Argus#2">Operation Argus</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Launch 3]]></name>
+			<Point>
+				<coordinates>-9.7,-48.5,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Argus#3">Operation Argus</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

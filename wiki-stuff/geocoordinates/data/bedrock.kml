@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Bedrock]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Escabosa]]></name>
+			<Point>
+				<coordinates>-116.03269,37.07498,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Escabosa">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crestlake-Briar - 1]]></name>
+			<Point>
+				<coordinates>-116.08601,37.11928,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Crestlake-Briar">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Puye]]></name>
+			<Point>
+				<coordinates>-116.03713,37.02342,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Puye">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Portmanteau]]></name>
+			<Point>
+				<coordinates>-116.08456,37.1524,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Portmanteau">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pratt]]></name>
+			<Point>
+				<coordinates>-116.03103,37.01211,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Pratt">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Trumbull]]></name>
+			<Point>
+				<coordinates>-116.09563,37.09316,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Trumbull">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stanyan]]></name>
+			<Point>
+				<coordinates>-116.06926,37.13258,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Stanyan">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Estaca]]></name>
+			<Point>
+				<coordinates>-116.01559,37.00639,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Estaca">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hybla Fair]]></name>
+			<Point>
+				<coordinates>-116.20482,37.20108,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Hybla_Fair">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Temescal]]></name>
+			<Point>
+				<coordinates>-116.09254,37.09314,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Temescal">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Puddle]]></name>
+			<Point>
+				<coordinates>-116.01207,37.00098,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Puddle">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Keel]]></name>
+			<Point>
+				<coordinates>-116.01833,37.01136,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Keel">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Portola - 1]]></name>
+			<Point>
+				<coordinates>-116.05243,37.17836,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Portola">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Teleme]]></name>
+			<Point>
+				<coordinates>-116.02166,37.11422,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Teleme">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bilge]]></name>
+			<Point>
+				<coordinates>-116.02527,37.00219,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Bilge">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Topgallant]]></name>
+			<Point>
+				<coordinates>-116.05712,37.10615,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Topgallant">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cabrillo]]></name>
+			<Point>
+				<coordinates>-116.0852,37.13402,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Cabrillo">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dining Car]]></name>
+			<Point>
+				<coordinates>-116.21476,37.18787,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Dining_Car">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Edam]]></name>
+			<Point>
+				<coordinates>-116.08811,37.11569,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Edam">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Obar]]></name>
+			<Point>
+				<coordinates>-116.02967,37.10881,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Obar">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tybo]]></name>
+			<Point>
+				<coordinates>-116.47527,37.22071,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Tybo">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stilton]]></name>
+			<Point>
+				<coordinates>-116.52377,37.34,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Stilton">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mizzen]]></name>
+			<Point>
+				<coordinates>-116.03697,37.09478,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Mizzen">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Alviso]]></name>
+			<Point>
+				<coordinates>-116.07457,37.11173,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Alviso">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Futtock]]></name>
+			<Point>
+				<coordinates>-116.02271,37.06562,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Futtock">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mast]]></name>
+			<Point>
+				<coordinates>-116.3211,37.35029,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Mast">Operation Bedrock</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Camembert]]></name>
+			<Point>
+				<coordinates>-116.36947,37.27887,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Bedrock#Camembert">Operation Bedrock</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

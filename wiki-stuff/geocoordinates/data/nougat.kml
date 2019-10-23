@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Nougat]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Antler]]></name>
+			<Point>
+				<coordinates>-116.20863,37.1879,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Antler">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shrew]]></name>
+			<Point>
+				<coordinates>-116.03367,37.0484,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Shrew">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Boomer]]></name>
+			<Point>
+				<coordinates>-116.03526,37.04829,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Boomer">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chena]]></name>
+			<Point>
+				<coordinates>-116.20791,37.19423,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Chena">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mink]]></name>
+			<Point>
+				<coordinates>-116.03195,37.04851,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Mink">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fisher]]></name>
+			<Point>
+				<coordinates>-116.02853,37.04581,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Fisher">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gnome]]></name>
+			<Point>
+				<coordinates>-103.86592,32.26298,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Gnome">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mad]]></name>
+			<Point>
+				<coordinates>-116.04962,37.12656,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Mad">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ringtail]]></name>
+			<Point>
+				<coordinates>-116.02616,37.04317,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Ringtail">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Feather]]></name>
+			<Point>
+				<coordinates>-116.20916,37.1949,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Feather">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stoat]]></name>
+			<Point>
+				<coordinates>-116.03592,37.04459,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Stoat">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Agouti]]></name>
+			<Point>
+				<coordinates>-116.03523,37.0472,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Agouti">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dormouse]]></name>
+			<Point>
+				<coordinates>-116.04034,37.04679,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Dormouse">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stillwater]]></name>
+			<Point>
+				<coordinates>-116.05354,37.1272,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Stillwater">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Armadillo]]></name>
+			<Point>
+				<coordinates>-116.03981,37.04354,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Armadillo">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hardhat]]></name>
+			<Point>
+				<coordinates>-116.06018,37.22626,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Hardhat">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chinchilla I]]></name>
+			<Point>
+				<coordinates>-116.03023,37.04905,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Chinchilla_I">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Codsaw]]></name>
+			<Point>
+				<coordinates>-116.03806,37.12743,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Codsaw">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cimarron]]></name>
+			<Point>
+				<coordinates>-116.04918,37.12881,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Cimarron">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Platypus]]></name>
+			<Point>
+				<coordinates>-116.03264,37.0483,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Platypus">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Danny Boy]]></name>
+			<Point>
+				<coordinates>-116.3658,37.11091,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Danny_Boy">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ermine]]></name>
+			<Point>
+				<coordinates>-116.0344,37.04837,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Ermine">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brazos]]></name>
+			<Point>
+				<coordinates>-116.04976,37.12212,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Brazos">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hognose]]></name>
+			<Point>
+				<coordinates>-116.03186,37.04393,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Hognose">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hoosic]]></name>
+			<Point>
+				<coordinates>-116.03483,37.12437,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Hoosic">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chinchilla II]]></name>
+			<Point>
+				<coordinates>-116.03776,37.04687,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Chinchilla_II">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dormouse Prime]]></name>
+			<Point>
+				<coordinates>-116.02425,37.04446,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Dormouse_Prime">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Passaic]]></name>
+			<Point>
+				<coordinates>-116.04487,37.11762,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Passaic">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hudson]]></name>
+			<Point>
+				<coordinates>-116.04577,37.12719,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Hudson">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Platte]]></name>
+			<Point>
+				<coordinates>-116.15832,37.22198,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Platte">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dead]]></name>
+			<Point>
+				<coordinates>-116.03237,37.11895,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Dead">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Black]]></name>
+			<Point>
+				<coordinates>-116.03857,37.11843,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Black">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Paca]]></name>
+			<Point>
+				<coordinates>-116.02567,37.04654,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Paca">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Arikaree]]></name>
+			<Point>
+				<coordinates>-116.04917,37.12754,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Arikaree">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Aardvark]]></name>
+			<Point>
+				<coordinates>-116.03092,37.06512,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Aardvark">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eel]]></name>
+			<Point>
+				<coordinates>-116.04809,37.12256,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Eel">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[White]]></name>
+			<Point>
+				<coordinates>-116.05287,37.12479,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#White">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Raccoon]]></name>
+			<Point>
+				<coordinates>-116.03534,37.04556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Raccoon">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Packrat]]></name>
+			<Point>
+				<coordinates>-116.04015,37.04567,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Packrat">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Des Moines]]></name>
+			<Point>
+				<coordinates>-116.16301,37.22217,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Des_Moines">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Daman I]]></name>
+			<Point>
+				<coordinates>-116.03103,37.04303,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Daman_I">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Haymaker]]></name>
+			<Point>
+				<coordinates>-116.03612,37.04154,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Haymaker">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Marshmallow]]></name>
+			<Point>
+				<coordinates>-116.20193,37.00906,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Marshmallow">Operation Nougat</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sacramento]]></name>
+			<Point>
+				<coordinates>-116.04829,37.11737,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Nougat#Sacramento">Operation Nougat</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

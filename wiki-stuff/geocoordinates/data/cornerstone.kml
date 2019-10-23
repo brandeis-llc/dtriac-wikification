@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Cornerstone]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Dalhart]]></name>
+			<Point>
+				<coordinates>-116.05013,37.08895,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Dalhart">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Monahans - 1]]></name>
+			<Point>
+				<coordinates>-116.02198,36.99116,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Monahans">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Monahans - 2]]></name>
+			<Point>
+				<coordinates>-116.02197,36.98868,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Monahans">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kawich Blue - 4]]></name>
+			<Point>
+				<coordinates>-116.09261,37.17527,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Kawich_Blue">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Misty Echo]]></name>
+			<Point>
+				<coordinates>-116.21032,37.19899,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Misty_Echo">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Texarkana]]></name>
+			<Point>
+				<coordinates>-116.00137,37.07678,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Texarkana">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kawich Black - 1]]></name>
+			<Point>
+				<coordinates>-116.12267,37.1285,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Kawich_Black">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ingot]]></name>
+			<Point>
+				<coordinates>-116.06781,37.14279,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Ingot">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Palisade - 1]]></name>
+			<Point>
+				<coordinates>-116.12176,37.10756,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Palisade">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tulia]]></name>
+			<Point>
+				<coordinates>-116.05665,37.08587,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Tulia">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Contact]]></name>
+			<Point>
+				<coordinates>-116.41319,37.28282,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Contact">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Amarillo]]></name>
+			<Point>
+				<coordinates>-116.35444,37.27541,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Amarillo">Operation Cornerstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Disko Elm]]></name>
+			<Point>
+				<coordinates>-116.16374,37.23589,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Cornerstone#Disko_Elm">Operation Cornerstone</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

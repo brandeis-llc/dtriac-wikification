@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Hardtack I]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Umbrella blast]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Yucca]]></name>
+			<Point>
+				<coordinates>167.025,12.617,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Yucca">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cactus]]></name>
+			<Point>
+				<coordinates>162.34727,11.55255,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Cactus">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fir]]></name>
+			<Point>
+				<coordinates>165.2733,11.6908,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Fir">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Butternut]]></name>
+			<Point>
+				<coordinates>162.34367,11.53859,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Butternut">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Koa]]></name>
+			<Point>
+				<coordinates>162.19847,11.66997,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Koa">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wahoo]]></name>
+			<Point>
+				<coordinates>162.16309,11.32646,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Wahoo">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Holly]]></name>
+			<Point>
+				<coordinates>162.35039,11.54029,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Holly">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nutmeg]]></name>
+			<Point>
+				<coordinates>165.3722,11.50355,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Nutmeg">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Yellowwood]]></name>
+			<Point>
+				<coordinates>162.22168,11.65751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Yellowwood">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Magnolia]]></name>
+			<Point>
+				<coordinates>162.34841,11.53932,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Magnolia">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tobacco]]></name>
+			<Point>
+				<coordinates>162.22663,11.66056,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Tobacco">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sycamore]]></name>
+			<Point>
+				<coordinates>165.27486,11.69722,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Sycamore">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rose]]></name>
+			<Point>
+				<coordinates>162.34593,11.53926,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Rose">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Umbrella]]></name>
+			<Point>
+				<coordinates>162.19399,11.37498,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Umbrella">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Maple]]></name>
+			<Point>
+				<coordinates>165.41582,11.6915,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Maple">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Linden]]></name>
+			<Point>
+				<coordinates>162.35106,11.54061,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Linden">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Oak]]></name>
+			<Point>
+				<coordinates>162.10259,11.60309,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Oak">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hickory]]></name>
+			<Point>
+				<coordinates>162.3708,11.4961,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Hickory">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Poplar]]></name>
+			<Point>
+				<coordinates>165.26708,11.69704,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Poplar">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scaevola]]></name>
+			<Point>
+				<coordinates>162.35199,11.54662,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Scaevola">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pisonia]]></name>
+			<Point>
+				<coordinates>162.31,11.55,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Pisonia">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pine]]></name>
+			<Point>
+				<coordinates>162.21414,11.6513,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Pine">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Piñon]]></name>
+			<Point>
+				<coordinates>162,12,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Pi%C3%B1on">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Launch Teak]]></name>
+			<Point>
+				<coordinates>-169.52534,16.73365,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#cite_ref-LT_215_5-3">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Teak]]></name>
+			<Point>
+				<coordinates>-169.5333,16.7439,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#cite_ref-LT_215_5-3">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Quince]]></name>
+			<Point>
+				<coordinates>162.35079,11.54828,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Quince">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Orange]]></name>
+			<Point>
+				<coordinates>-169.5356,16.3583,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#cite_ref-LT_215_5-4">Operation Hardtack I</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fig]]></name>
+			<Point>
+				<coordinates>162.34879,11.54955,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Hardtack_I#Fig">Operation Hardtack I</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

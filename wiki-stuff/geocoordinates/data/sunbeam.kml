@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Sunbeam]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Little Feller II]]></name>
+			<Point>
+				<coordinates>-116.30381,37.11906,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sunbeam#Little_Feller_II">Operation Sunbeam</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Johnnie Boy]]></name>
+			<Point>
+				<coordinates>-116.33395,37.12216,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sunbeam#Johnnie_Boy">Operation Sunbeam</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Small Boy]]></name>
+			<Point>
+				<coordinates>-115.932,36.798,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sunbeam#Small_Boy">Operation Sunbeam</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Launch Little Feller I]]></name>
+			<Point>
+				<coordinates>-116.32977,37.08607,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sunbeam#Little_Feller_I">Operation Sunbeam</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Little Feller I]]></name>
+			<Point>
+				<coordinates>-116.31823,37.10946,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Sunbeam#Little_Feller_I">Operation Sunbeam</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Touchstone]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Borate]]></name>
+			<Point>
+				<coordinates>-116.07957,37.14185,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Borate">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Waco]]></name>
+			<Point>
+				<coordinates>-116.00533,36.99636,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Waco">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mission Cyber]]></name>
+			<Point>
+				<coordinates>-116.16425,37.2346,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Mission_Cyber">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kernville]]></name>
+			<Point>
+				<coordinates>-116.47253,37.31431,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Kernville">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Abilene]]></name>
+			<Point>
+				<coordinates>-116.04519,37.01311,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Abilene">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Schellbourne]]></name>
+			<Point>
+				<coordinates>-116.073,37.12439,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Schellbourne">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Laredo]]></name>
+			<Point>
+				<coordinates>-115.98814,37.03245,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Laredo">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Comstock]]></name>
+			<Point>
+				<coordinates>-116.44197,37.26008,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Comstock">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nightingale - 2]]></name>
+			<Point>
+				<coordinates>-116.07312,37.16611,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Nightingale">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Alamo]]></name>
+			<Point>
+				<coordinates>-116.37756,37.25239,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Alamo">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kearsarge]]></name>
+			<Point>
+				<coordinates>-116.30742,37.2971,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Kearsarge">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harlingen - 1]]></name>
+			<Point>
+				<coordinates>-116.01887,36.99113,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Harlingen">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harlingen - 2]]></name>
+			<Point>
+				<coordinates>-116.01876,36.98868,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Harlingen">Operation Touchstone</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bullfrog]]></name>
+			<Point>
+				<coordinates>-116.06925,37.08593,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Touchstone#Bullfrog">Operation Touchstone</a>]]></description>
+		</Placemark>
+</Document>
+</kml>

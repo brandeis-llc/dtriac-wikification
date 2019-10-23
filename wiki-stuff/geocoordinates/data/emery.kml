@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Operation Emery]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Scree-Acajou - 1]]></name>
+			<Point>
+				<coordinates>-116.03491,37.1374,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Scree-Acajou">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scree-Alhambra - 2]]></name>
+			<Point>
+				<coordinates>-116.0324,37.13406,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Scree-Alhambra">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Scree-Chamois - 3]]></name>
+			<Point>
+				<coordinates>-116.03217,37.13733,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Scree-Chamois">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tijeras]]></name>
+			<Point>
+				<coordinates>-116.00566,37.07085,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Tijeras">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Truchas-Chacon - 1]]></name>
+			<Point>
+				<coordinates>-116.01867,37.01401,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Truchas-Chacon">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Truchas-Chamisal - 2]]></name>
+			<Point>
+				<coordinates>-116.01799,37.01398,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Truchas-Chamisal">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Truchas-Rodarte - 3]]></name>
+			<Point>
+				<coordinates>-116.02007,37.01479,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Truchas-Rodarte">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Abeytas]]></name>
+			<Point>
+				<coordinates>-116.01244,37.02947,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Abeytas">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Penasco]]></name>
+			<Point>
+				<coordinates>-116.01665,37.01474,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Penasco">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carrizozo - 1]]></name>
+			<Point>
+				<coordinates>-116.04079,37.00608,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Carrizozo">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Corazon - 2]]></name>
+			<Point>
+				<coordinates>-116.03865,37.00202,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Corazon">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Artesia]]></name>
+			<Point>
+				<coordinates>-116.00881,37.10012,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Artesia">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Avens-Alkermes - 2]]></name>
+			<Point>
+				<coordinates>-116.03903,37.13737,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Avens-Alkermes">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Avens-Andorre - 1]]></name>
+			<Point>
+				<coordinates>-116.04053,37.14173,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Avens-Andorre">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Avens-Asamite - 3]]></name>
+			<Point>
+				<coordinates>-116.03632,37.13406,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Avens-Asamite">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Avens-Cream - 4]]></name>
+			<Point>
+				<coordinates>-116.03502,37.1428,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Avens-Cream">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Canjilon]]></name>
+			<Point>
+				<coordinates>-116.02586,37.07247,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Canjilon">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carpetbag]]></name>
+			<Point>
+				<coordinates>-116.08365,37.12931,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Carpetbag">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Baneberry]]></name>
+			<Point>
+				<coordinates>-116.09973,37.17309,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Baneberry">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Embudo]]></name>
+			<Point>
+				<coordinates>-116.01435,37.03318,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Embudo">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dexter]]></name>
+			<Point>
+				<coordinates>-116.01716,37.01319,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Dexter">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Laguna]]></name>
+			<Point>
+				<coordinates>-116.02345,37.02195,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Laguna">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harebell]]></name>
+			<Point>
+				<coordinates>-116.0677,37.14665,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Harebell">Operation Emery</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Camphor]]></name>
+			<Point>
+				<coordinates>-116.21237,37.17673,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Operation_Emery#Camphor">Operation Emery</a>]]></description>
+		</Placemark>
+</Document>
+</kml>
