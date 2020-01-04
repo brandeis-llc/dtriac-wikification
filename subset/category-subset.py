@@ -7,6 +7,7 @@ The results will be printed in the STDOUT. Each line contains ID and title of an
 separated by a tab character.
 """
 
+from queue import Queue
 from typing import List
 import re
 from mwclient import Site
@@ -18,19 +19,22 @@ from mwclient.page import Page
 def get_pages(category_name, visited_cats):
     enwiki = Site('en.wikipedia.org')
     pages = set()
-    cat = enwiki.categories[category_name]
-    for member in cat.members():
-        if isinstance(member, Category):
-            cat_name = member.name[9:]
-            if cat_name not in visited_cats:
-                visited_cats.add(cat_name)
-                pages.update(get_pages(cat_name, visited_cats))
-        elif isinstance(member, Page):
-            # don't want to include special pages, prefixed with mediawiki prefixes
-            # such as "Template:XXX", "File:YYY", ...
-            if not re.match(r'[A-Z][a-z]+:[^ ]', member.name):
-                pages.add(member)
-    # print(f'({len(visited_cats):05}) {category_name}: {len(pages):05}')
+    queue = Queue()
+    queue.put(category_name)
+    while not queue.empty():
+        cat = enwiki.categories[queue.get()]
+        for member in cat.members():
+            if isinstance(member, Category):
+                cat_name = member.name[9:]
+                if cat_name not in visited_cats:
+                    visited_cats.add(cat_name)
+                    queue.put(cat_name)
+            elif isinstance(member, Page):
+                # don't want to include special pages, prefixed with mediawiki prefixes
+                # such as "Template:XXX", "File:YYY", ...
+                if not re.match(r'[A-Z][a-z]+:[^ ]', member.name):
+                    pages.add(member)
+        # print(f'({len(visited_cats):05}) {category_name}: {len(pages):05}')
     return pages
 
 
