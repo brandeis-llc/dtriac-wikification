@@ -54,7 +54,7 @@ def generate_bulks(subset_name, pageids, dump_file):
     """
     import json
 
-    bulk_size = 5
+    bulk_size = 500
 
     tot_batch_num = len(pageids) // bulk_size
     batch_digits = len(str(tot_batch_num))
@@ -73,13 +73,18 @@ def generate_bulks(subset_name, pageids, dump_file):
         article_metadata_str = dump_file.readline()
         article_metadata = json.loads(article_metadata_str)
         pagetype = article_metadata['index']['_type']
-        pageid = int(article_metadata['index']['_id'])
+        try:
+            pageid = int(article_metadata['index']['_id'])
+        except ValueError:
+            pageid = None
         if pagetype == 'page' and pageid in pageids:
+            print(f"FOUND: {pageid}")
             pageids.remove(pageid)
             article_contents_str = dump_file.readline()
             cur_batch.append(article_metadata_str)
             cur_batch.append(article_contents_str)
             if len(cur_batch) >= bulk_size * 2:
+                print(f"WRITING BATCH {cur_batch_num}")
                 write_batch_to_bulkfile()
                 cur_batch = []
                 cur_batch_num += 1
@@ -115,30 +120,22 @@ if __name__ == '__main__':
 
     parser.add_argument(
         'category',
-        required=True,
         metavar="CAT",
         type=str,
         action='store',
         help='A wikipedia (en) category to use for subsetting. IF <category>.txt (spaces replaced with \'_\') DOES exists in cwd, it will use it instead of querying wikipedia for pages.'
     )
     parser.add_argument(
-        '-p', '--pages',
-        default=None,
-        action='store',
-        nargs='?',
-        help=''
-    )
-    parser.add_argument(
         '-b', '--bulkdump',
         required=False,
         default=None,
         action='store',
-        nargs=1,
+        nargs='?',
         help='Pass a cirrus-format wiki dump file name to generate files for bulk-index to elasticsearch'
     )
     args = parser.parse_args()
     category = args.category.replace(' ', '_')
-    category_txt_fname =f'{category}.txt'
+    category_txt_fname = f'{category}.txt'
     if args.bulkdump is None:
         print_pages(get_pages(category, set()))
     else:
@@ -148,5 +145,5 @@ if __name__ == '__main__':
                 ids = list(map(int, map(lambda x: x.strip().split('\t')[0], [line for line in category_txt_fname.readlines() if len(line) > 1])))
         else:
             ids = [page.pageid for page in get_pages(category, set())]
-        with gzip.open(args.bulkdump, 'r', encoding='utf-8') as dump:
+        with gzip.open(args.bulkdump, 'r') as dump:
             generate_bulks(category, ids, dump)
