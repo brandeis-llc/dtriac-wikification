@@ -65,7 +65,8 @@ def generate_bulks(subset_name, pageids, dump_file):
         return f'{subset_name}-{cur_batch_num:0{batch_digits}}'
 
     def write_batch_to_bulkfile():
-        with open(get_bulk_fname(), 'w', encoding='utf-8') as bulk_file:
+        print(f"WRITING BATCH {cur_batch_num}")
+        with open(get_bulk_fname(), 'wb') as bulk_file:
             for line in cur_batch:
                 bulk_file.write(line)
 
@@ -78,13 +79,12 @@ def generate_bulks(subset_name, pageids, dump_file):
         except ValueError:
             pageid = None
         if pagetype == 'page' and pageid in pageids:
-            print(f"FOUND: {pageid}")
+            print(f"FOUND: {pageid}, ", end="", flush=True)
             pageids.remove(pageid)
             article_contents_str = dump_file.readline()
             cur_batch.append(article_metadata_str)
             cur_batch.append(article_contents_str)
             if len(cur_batch) >= bulk_size * 2:
-                print(f"WRITING BATCH {cur_batch_num}")
                 write_batch_to_bulkfile()
                 cur_batch = []
                 cur_batch_num += 1
@@ -142,8 +142,10 @@ if __name__ == '__main__':
         import gzip
         if os.path.exists(category_txt_fname):
             with open(category_txt_fname) as category_txt_f:
-                ids = list(map(int, map(lambda x: x.strip().split('\t')[0], [line for line in category_txt_fname.readlines() if len(line) > 1])))
+                print("using an existing page list")
+                ids = list(map(int, map(lambda x: x.strip().split('\t')[0], [line for line in category_txt_f.readlines() if len(line) > 1])))
         else:
+            print("retrieving a page list online")
             ids = [page.pageid for page in get_pages(category, set())]
         with gzip.open(args.bulkdump, 'r') as dump:
             generate_bulks(category, ids, dump)
