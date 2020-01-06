@@ -83,7 +83,7 @@ def generate_bulks(subset_name, titles, dump_file, es_index_name):
     :return: Nothing returned, but bulk-index ready files will be generated, named after the subset name. Each file will contain 500 wiki articles.
     """
 
-    bulk_size = 4
+    bulk_size = 200
 
     tot_batch_num = len(titles) // bulk_size
     batch_digits = len(str(tot_batch_num))
@@ -105,14 +105,14 @@ def generate_bulks(subset_name, titles, dump_file, es_index_name):
         print(f"INDEXING BATCH {cur_batch_num}/{tot_batch_num}")
         for item_num in range(0, len(cur_batch), 2):
             meta = json.loads(cur_batch[item_num])
-            source = cur_batch[item_num+1]
+            source = json.loads(cur_batch[item_num+1])
             meta['index']['_index'] = es_index_name
             meta['index']['_source'] = source
             yield meta['index']
 
 
     def index_batch_by_bulk(es_index_name):
-        es = ES(ES_HOST)
+        es = ES(ES_HOST, timeout=30, max_retries=10, retry_on_timeout=True)
         es_helpers.bulk(es, cur_batch_to_bulk_iterable(es_index_name))
 
     def process_batch():
@@ -123,6 +123,7 @@ def generate_bulks(subset_name, titles, dump_file, es_index_name):
 
 
     if es_index_name is not None:
+        es_index_name = es_index_name.lower()
         delete_es_index(es_index_name)
         create_wikipedia_es_index(es_index_name)
     while len(titles) > 0:
