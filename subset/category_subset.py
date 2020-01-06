@@ -13,6 +13,36 @@ from mwclient import Site
 
 from mwclient.listing import Category
 from mwclient.page import Page
+from elasticsearch import Elasticsearch as ES
+from elasticsearch import helpers as es_helpers
+import urllib
+
+ES_HOST = 'localhost:9200'
+HTTP_JSON_HEADER = {'Content-Type': 'application/json'}
+
+def delete_es_index(index_name):
+    es = ES(ES_HOST)
+    es.indices.delete(index=index_name, ignore=[400, 404])
+
+
+def create_wikipedia_es_index(index_name):
+    es = ES(ES_HOST)
+    settings_dump_url = 'https://en.wikipedia.org/w/api.php?action=cirrus-settings-dump&format=json&formatversion=2'
+    settings = json.loads((request.urlopen(settings_dump_url).read()))
+    mappings_dump_url = 'https://en.wikipedia.org/w/api.php?action=cirrus-mapping-dump&format=json&formatversion=2'
+    mappings = json.loads((request.urlopen(mappings_dump_url).read()))
+
+    print(json.dumps(mappings['content']['page'], indent=2))
+    configurations = {
+        'settings': {
+            'index': {
+                'analysis': settings['content']['page']['index']['analysis'],
+                'similarity': settings['content']['page']['index']['similarity']
+            }
+        },
+        'mappings':  {'page': mappings['content']['page']}
+    }
+    es.indices.create('en-test', body=configurations)
 
 
 def get_pages(category_name, visited_cats):
@@ -43,7 +73,7 @@ def print_pages(pages: List[Page]):
         print(f'{page.pageid}\t{page.name}')
 
 
-def generate_bulks(subset_name, pageids, dump_file):
+def generate_bulks(subset_name, pageids, dump_file, es_index_name):
     """
     Function to generate bulk-ready (in terms of elasticsearch) files of a subset of wikipeida,
     given a list of pages in include in the subset and file-like object of a cirrus-format wiki dump
@@ -69,6 +99,19 @@ def generate_bulks(subset_name, pageids, dump_file):
         with open(get_bulk_fname(), 'wb') as bulk_file:
             for line in cur_batch:
                 bulk_file.write(line)
+
+    def cur_batch_to_bulk_iterable(es_index_name):
+        for item_num in range(0, len(cur_batch), 2):
+            meta = cur_batch[item_num]
+            source = cur_batch[item_num+1]
+            meta['index']['_index'] = es_index_name
+            meta['index']['_source'] = source
+            yield meta['index']
+
+
+    def index_batch_by_bulk(es_index_name):
+        es = ES(ES_HOST)
+        es_helpers.bulk(es, cur_batch_to_bulk_iterable(es_index_name))
 
     while len(pageids) > 0:
         article_metadata_str = dump_file.readline()
@@ -126,6 +169,14 @@ if __name__ == '__main__':
         help='A wikipedia (en) category to use for subsetting. IF <category>.txt (spaces replaced with \'_\') DOES exists in cwd, it will use it instead of querying wikipedia for pages.'
     )
     parser.add_argument(
+        '-e', '--elasticsearch',
+        required=False,
+        default=None,
+        action='store',
+        nargs='?',
+        help='Pass a ES index name to index to elastic search directly, instead of writing bulk-index ready files. Be careful as an existing ES index will be deleted.'
+    )
+    parser.add_argument(
         '-b', '--bulkdump',
         required=False,
         default=None,
@@ -148,4 +199,4 @@ if __name__ == '__main__':
             print("retrieving a page list online")
             ids = [page.pageid for page in get_pages(category, set())]
         with gzip.open(args.bulkdump, 'r') as dump:
-            generate_bulks(category, ids, dump)
+            generate_bulks(category, ids, dump, args.elasticsearch)
