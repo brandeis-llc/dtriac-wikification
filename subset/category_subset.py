@@ -6,16 +6,17 @@ Usage: ./X.py "category_name"
 The results will be printed in the STDOUT. Each line contains ID and title of an wiki article,
 separated by a tab character.
 """
+import json
+import re
 from queue import Queue
 from typing import List
-import re
-from mwclient import Site
+from urllib import request
 
-from mwclient.listing import Category
-from mwclient.page import Page
 from elasticsearch import Elasticsearch as ES
 from elasticsearch import helpers as es_helpers
-import urllib
+from mwclient import Site
+from mwclient.listing import Category
+from mwclient.page import Page
 
 ES_HOST = 'localhost:9200'
 HTTP_JSON_HEADER = {'Content-Type': 'application/json'}
@@ -32,7 +33,6 @@ def create_wikipedia_es_index(index_name):
     mappings_dump_url = 'https://en.wikipedia.org/w/api.php?action=cirrus-mapping-dump&format=json&formatversion=2'
     mappings = json.loads((request.urlopen(mappings_dump_url).read()))
 
-    print(json.dumps(mappings['content']['page'], indent=2))
     configurations = {
         'settings': {
             'index': {
@@ -42,7 +42,7 @@ def create_wikipedia_es_index(index_name):
         },
         'mappings':  {'page': mappings['content']['page']}
     }
-    es.indices.create('en-test', body=configurations)
+    es.indices.create(index_name, body=configurations)
 
 
 def get_pages(category_name, visited_cats):
@@ -82,9 +82,8 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
     :param dump_file: file-like object of wiki dump formatted for cirrussearch (obtainable from https://dumps.wikimedia.org/other/cirrussearch/)
     :return: Nothing returned, but bulk-index ready files will be generated, named after the subset name. Each file will contain 500 wiki articles.
     """
-    import json
 
-    bulk_size = 500
+    bulk_size = 4
 
     tot_batch_num = len(pageids) // bulk_size
     batch_digits = len(str(tot_batch_num))
@@ -95,14 +94,17 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
         return f'{subset_name}-{cur_batch_num:0{batch_digits}}'
 
     def write_batch_to_bulkfile():
-        print(f"WRITING BATCH {cur_batch_num}")
+        print(f"WRITING BATCH {cur_batch_num}/{tot_batch_num}")
         with open(get_bulk_fname(), 'wb') as bulk_file:
             for line in cur_batch:
+                if isinstance(line, str):
+                    line = line.encode()
                 bulk_file.write(line)
 
     def cur_batch_to_bulk_iterable(es_index_name):
+        print(f"INDEXING BATCH {cur_batch_num}/{tot_batch_num}")
         for item_num in range(0, len(cur_batch), 2):
-            meta = cur_batch[item_num]
+            meta = json.loads(cur_batch[item_num])
             source = cur_batch[item_num+1]
             meta['index']['_index'] = es_index_name
             meta['index']['_source'] = source
@@ -113,6 +115,16 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
         es = ES(ES_HOST)
         es_helpers.bulk(es, cur_batch_to_bulk_iterable(es_index_name))
 
+    def process_batch():
+        if es_index_name is None:
+            write_batch_to_bulkfile()
+        else:
+            index_batch_by_bulk(es_index_name)
+
+
+    if es_index_name is not None:
+        delete_es_index(es_index_name)
+        create_wikipedia_es_index(es_index_name)
     while len(pageids) > 0:
         article_metadata_str = dump_file.readline()
         article_metadata = json.loads(article_metadata_str)
@@ -128,13 +140,13 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
             cur_batch.append(article_metadata_str)
             cur_batch.append(article_contents_str)
             if len(cur_batch) >= bulk_size * 2:
-                write_batch_to_bulkfile()
+                process_batch()
                 cur_batch = []
                 cur_batch_num += 1
         else:
             next(dump_file)
     if len(cur_batch) > 0:
-        write_batch_to_bulkfile()
+        process_batch()
 
 
 def get_pages_dicts(category_name):
