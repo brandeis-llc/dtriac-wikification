@@ -134,12 +134,17 @@ def generate_bulks(subset_name, titles, dump_file, es_index_name):
             break
         article_metadata = json.loads(article_metadata_str)
         pagetype = article_metadata['index']['_type']
-        if not pagetype == 'page':
+        pageid = article_metadata['index']['_id']
+        if not pagetype == 'page' or not pageid.isnumeric():
             next(dump_file)
         else:
             article_contents_str = dump_file.readline()
             article_contents = json.loads(article_contents_str)
-            title = article_contents['title']
+            try:
+                title = article_contents['title']
+            except KeyError:
+                print(article_metadata)
+                print(article_contents)
             # try:
             #     qid = int(article_contents['wikibase_item'][1:])
             # except KeyError:
@@ -215,7 +220,7 @@ if __name__ == '__main__':
         if os.path.exists(category_txt_fname):
             with open(category_txt_fname) as category_txt_f:
                 print("using an existing page list")
-                ids = list(map(int, map(lambda x: x.strip().split('\t')[1], [line for line in category_txt_f.readlines() if len(line) > 1])))
+                ids = list(map(lambda x: x.strip().split('\t')[1], [line for line in category_txt_f.readlines() if len(line) > 1]))
         else:
             print("retrieving a page list online")
             ids = [page.name for page in get_pages(category, set())]
