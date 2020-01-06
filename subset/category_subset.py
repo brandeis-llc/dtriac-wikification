@@ -73,7 +73,7 @@ def print_pages(pages: List[Page]):
         print(f'{page.pageid}\t{page.name}')
 
 
-def generate_bulks(subset_name, pageids, dump_file, es_index_name):
+def generate_bulks(subset_name, titles, dump_file, es_index_name):
     """
     Function to generate bulk-ready (in terms of elasticsearch) files of a subset of wikipeida,
     given a list of pages in include in the subset and file-like object of a cirrus-format wiki dump
@@ -85,7 +85,7 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
 
     bulk_size = 4
 
-    tot_batch_num = len(pageids) // bulk_size
+    tot_batch_num = len(titles) // bulk_size
     batch_digits = len(str(tot_batch_num))
     cur_batch_num = 0
     cur_batch = []
@@ -125,30 +125,34 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
     if es_index_name is not None:
         delete_es_index(es_index_name)
         create_wikipedia_es_index(es_index_name)
-    while len(pageids) > 0:
+    while len(titles) > 0:
         article_metadata_str = dump_file.readline()
         if article_metadata_str is None or len(article_metadata_str) < 2:
-            print(f"{len(pageids)} articles left in the subset but the dump file ended early. LEFT: ")
-            print(pageids)
+            print(f"{len(titles)} articles left in the subset but the dump file ended early. LEFT: ")
+            print(titles)
             break
         article_metadata = json.loads(article_metadata_str)
         pagetype = article_metadata['index']['_type']
-        try:
-            pageid = int(article_metadata['index']['_id'])
-        except ValueError:
-            pageid = None
-        if pagetype == 'page' and pageid in pageids:
-            print(f"FOUND: {pageid}, ", end="", flush=True)
-            pageids.remove(pageid)
-            article_contents_str = dump_file.readline()
-            cur_batch.append(article_metadata_str)
-            cur_batch.append(article_contents_str)
-            if len(cur_batch) >= bulk_size * 2:
-                process_batch()
-                cur_batch = []
-                cur_batch_num += 1
-        else:
+        if not pagetype == 'page':
             next(dump_file)
+        else:
+            article_contents_str = dump_file.readline()
+            article_contents = json.loads(article_contents_str)
+            title = article_contents['title']
+            # try:
+            #     qid = int(article_contents['wikibase_item'][1:])
+            # except KeyError:
+                # for some reason, the dump has no QID for this document
+                # qid = title
+            if title in titles:
+                print(f"FOUND: {title}, ", end="", flush=True)
+                titles.remove(title)
+                cur_batch.append(article_metadata_str)
+                cur_batch.append(article_contents_str)
+                if len(cur_batch) >= bulk_size * 2:
+                    process_batch()
+                    cur_batch = []
+                    cur_batch_num += 1
     if len(cur_batch) > 0:
         process_batch()
 
@@ -210,9 +214,9 @@ if __name__ == '__main__':
         if os.path.exists(category_txt_fname):
             with open(category_txt_fname) as category_txt_f:
                 print("using an existing page list")
-                ids = list(map(int, map(lambda x: x.strip().split('\t')[0], [line for line in category_txt_f.readlines() if len(line) > 1])))
+                ids = list(map(int, map(lambda x: x.strip().split('\t')[1], [line for line in category_txt_f.readlines() if len(line) > 1])))
         else:
             print("retrieving a page list online")
-            ids = [page.pageid for page in get_pages(category, set())]
+            ids = [page.name for page in get_pages(category, set())]
         with gzip.open(args.bulkdump, 'r') as dump:
             generate_bulks(category, ids, dump, args.elasticsearch)
