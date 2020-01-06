@@ -127,6 +127,10 @@ def generate_bulks(subset_name, pageids, dump_file, es_index_name):
         create_wikipedia_es_index(es_index_name)
     while len(pageids) > 0:
         article_metadata_str = dump_file.readline()
+        if article_metadata_str is None or len(article_metadata_str) < 2:
+            print(f"{len(pageids)} articles left in the subset but the dump file ended early. LEFT: ")
+            print(pageids)
+            break
         article_metadata = json.loads(article_metadata_str)
         pagetype = article_metadata['index']['_type']
         try:
