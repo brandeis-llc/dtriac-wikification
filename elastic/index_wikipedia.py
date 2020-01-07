@@ -10,6 +10,7 @@ a wiki document is represented in two lines (one with metadata and another with 
 The `title_index_file` is simply a list of titles (one at a line) of the documents in a cirrus dump file,
 ordered in the same order of appearance in the original dump.
 """
+import gzip
 import json
 import subprocess
 from urllib import request
@@ -55,7 +56,7 @@ def get_line(filename, line_num):
     return subprocess.check_output(['sed', f'{line_num}q;d', filename])
 
 
-def slice_and_index(subset_name, titles, dump_file, title_index_file, es_index_name):
+def slice_and_index(subset_name, titles, dump_file, es_index_name):
     """
     Function to generate bulk-ready files of a slice of wikipeida, given a list of pages to include in the slice and
     file-like object of a cirrus-format wiki dump. When a name of elasticsearch index is given, the slices will be
@@ -99,51 +100,57 @@ def slice_and_index(subset_name, titles, dump_file, title_index_file, es_index_n
         else:
             index_batch_by_bulk(es_index_name)
 
+    def remove_if_has(l, i):
+        if i in l:
+            l.remove(i)
+
     if es_index_name is not None:
         es_index_name = es_index_name.lower()
         delete_es_index(es_index_name)
         create_wikipedia_es_index(es_index_name)
-    title_index = load_title_index(title_index_file)
+
+    if isinstance(dump_file, str):
+        if dump_file.endswith('.gz'):
+            dump_file = gzip.open(dump_file, 'r')
+        elif dump_file.endswith('.json'):
+            dump_file = open(dump_file, 'r')
 
     while len(titles) > 0:
-        title = titles.pop()
-        print(title, end="")
-        if len(title) < 1:
-            continue
-        title_i = title_index.get(title, None)
-        if title_i is None:
-            print(" is not in the dump. Maybe a redirect name? Skipping it.")
-            continue
-        title_i = title_i * 2
-        article_metadata_str = get_line(dump_file, title_i-1).decode().strip()
+        article_metadata_str = dump_file.readline()
+        if article_metadata_str is None or len(article_metadata_str) < 2:
+            print(f"{len(titles)} articles left in the subset but the dump file ended early. LEFT: ")
+            print(titles)
+            break
         article_metadata = json.loads(article_metadata_str)
-        article_contents_str = get_line(dump_file, title_i).decode().strip()
+        pagetype = article_metadata['index']['_type']
+        pageid = article_metadata['index']['_id']
+        if not pagetype == 'page' or not pageid.isnumeric():
+            next(dump_file)
+            continue
+        article_contents_str = dump_file.readline()
         article_contents = json.loads(article_contents_str)
-        # sanity_check
-        try:
-            assert title == article_contents['title']
-            print(f": FOUND, ", end="", flush=True)
-        except AssertionError as e:
-            print(e)
-            print(f' is different from {article_contents["title"]} from the dump')
-        except KeyError as e:
-            print(e)
-            print(article_metadata)
-            print(article_contents)
-        # also remove all synonymous duplicates
-        for redirect in article_contents['redirect']:
-            if redirect['namespace'] == 0:
-                try:
-                    titles.remove(redirect['title'])
-                except ValueError:
-                    # means the redirect name is not in the slice
-                    pass 
-        cur_batch.append(article_metadata_str)
-        cur_batch.append(article_contents_str)
-        if len(cur_batch) >= bulk_size * 2:
-            process_batch()
-            cur_batch = []
-            cur_batch_num += 1
+        if article_contents['namespace'] == 0:
+            title = None
+            article_title = article_contents.get('title')
+            article_aliases = [redirect['title'] for redirect in article_contents['redirect'] if redirect.get('namespace') == 0]
+            if article_title in titles:
+                title = article_title
+            else:
+                for alias in article_aliases:
+                    if alias in titles:
+                        title = alias
+                        break
+            if title is not None:
+                print(f"FOUND: {title}, ", end="", flush=True)
+                remove_if_has(titles, title)
+                map(lambda x: remove_if_has(titles, x), article_aliases)
+                cur_batch.append(article_metadata_str)
+                cur_batch.append(article_contents_str)
+                if len(cur_batch) >= bulk_size * 2:
+                    process_batch()
+                    cur_batch = []
+                    cur_batch_num += 1
+
     if len(cur_batch) > 0:
         process_batch()
 
@@ -186,4 +193,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     dump_name = args.dump
     title_index_name = dump_name.replace('-content.json', '-titles.txt')
-    slice_and_index(f'{args.slice}-bulk', [title.strip() for title in open(args.slice)], dump_name, title_index_name, args.esindex)
+    slice_and_index(f'{args.slice}-bulk', [title.strip() for title in open(args.slice)], dump_name, args.esindex)
