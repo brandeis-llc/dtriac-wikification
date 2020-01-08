@@ -1,0 +1,2466 @@
+{
+    "links": [
+        {
+            "source": "development of compositionally graded metallic glass alloys with desirable properties",
+            "target": "2016",
+            "val": 1
+        },
+        {
+            "source": "projections of plasma cloud structures and their spectra",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "efficient elastic-plastic design of small foundations",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "analysis of UHF radar data-stress series",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "forward and inverse modeling of near-field seismic waveforms from underground nuclear explosions for effective source functions and structure parameters",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "prediction of aircraft ground performance by evaluation of ground vehicle rut depths",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "parameter estimation for generator simulation studies",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "evaluation of fallout contamination from surface runoff",
+            "target": "1969",
+            "val": 1
+        },
+        {
+            "source": "the atmospheric chemical kinetics of N2O",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "Marshall Ogarkov on modern war 1977-1985",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "development of an improved land-surface fallout model",
+            "target": "1966",
+            "val": 1
+        },
+        {
+            "source": "high energy proten SEU* test results for the commercially available MIPS R3000 microprocessor and R3010 floating point unit**",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "some aspects of shock-wave research",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "rat monocytes in a model of combined injury express the OX8 antigen",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "complementary-symmetry / metal oxide semiconductor (CMOS) circuit hardening",
+            "target": "1975",
+            "val": 1
+        },
+        {
+            "source": "MAZE 3 - a sequential computer spectral enhancement code",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "charge collection in GaAs MESFETs and MOSFETs",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "the impact of strong scintillation on space based radar design-nonherent detection",
+            "target": "1983",
+            "val": 1
+        },
+        {
+            "source": "a triaxial accelerometer system for air density measurements",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "community shelter report",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "project dribble - salmon event on-site health and safety report ",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "operation Hardtack project 4.3 effect of light from very-low-yield nuclear detonations on vision (dazzle) of combat personnel",
+            "target": "1958",
+            "val": 1
+        },
+        {
+            "source": "dynamic pressure impulse for near-ideal and non-ideal blast waves - height of burst charts (u)",
+            "target": "1981",
+            "val": 1
+        },
+        {
+            "source": "verification and validation of social science simulations: some thoughts for consideration in national security applications",
+            "target": "2007",
+            "val": 1
+        },
+        {
+            "source": "the Kelvin-Helmholtz instability and turbulent mixing",
+            "target": "1975",
+            "val": 1
+        },
+        {
+            "source": "coupled barium cloud-ionosphere systems 3. neutral wind effects in the small cloud approximation",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "Effects of a phorbol ester on rat aortic contraction and calcium influx in the presence and absence of BAY k 8644 ",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "the delta-four-stream approximation for radiative flux transfer",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "a comparison of long shot and earthquakes",
+            "target": "1967",
+            "val": 1
+        },
+        {
+            "source": "evaluation of military individual and collective protection devices and clothing",
+            "target": "1952",
+            "val": 1
+        },
+        {
+            "source": "the problem of induced \"block motion\" related to deep underground strategic facilities - a summary",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "the effects of a changing gamma-ray fallout spectrum on the ground roughness factor",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "Millstone Hill radar propagtion study: instrumentation",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "operation Plumbbob project 33.2 secondary missiles generated by nuclear-produced blast waves",
+            "target": "1963",
+            "val": 1
+        },
+        {
+            "source": "absolute yields of x-ray induced photoemission from metals",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "operation Upshot-Knothole project 5.3 blast effects on B-36 type aircraft in flight",
+            "target": "1955",
+            "val": 1
+        },
+        {
+            "source": "departure from LTE in an oxygen plasma II. collisional-radiative model",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "stable pyrolysis products of cellulose exposed to intense thermal radiation",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "a master event strategy for location with seismic array data",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "comments on \"minimizing the consequences of nuclear warfare\" by Carl Sagan",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "operations Charioteer, Musketeer, Touchstone, Cornerstone, Aqueduct, Sculpin and Julin",
+            "target": "1999",
+            "val": 1
+        },
+        {
+            "source": "operation Dominic, fish bowl series project operator's report - project 6.2 Gamma-ray scanning of debris cloud",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "neutron-field and induced-activity measurements - operation Bren",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "applicability of absorber-ratio methods to beam-plasma systems",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "chemical laser reactions cross-section measurements",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "preparation and care of the area postrema-lesioned cat",
+            "target": "1989",
+            "val": 1
+        },
+        {
+            "source": "optical heterodyne detection of an atmospherically distorted signal wave front",
+            "target": "1999",
+            "val": 1
+        },
+        {
+            "source": "propagation effects in space-based surveillance systems",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "a study of equations of state/opacity of ionized gases",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "electron beam conditioning of carbon phenolic ablator surface",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "F-14 scale model measurements part I, external response",
+            "target": "1983",
+            "val": 1
+        },
+        {
+            "source": "project dribble - salmon event ground-water safety",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "operation Teapot Nevada test site project 35.5 effects of a nuclear explosion on records and record storage equipment",
+            "target": "1958",
+            "val": 1
+        },
+        {
+            "source": "operation Fulcrum onsite radiological safety report October 1976 through September 1977",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "high frequency seismic source characteristics of cavity decoupled underground nuclear explosions",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "inelastic neutron scattering cross sections in several elements with 15 MEV neutrons",
+            "target": "1967",
+            "val": 1
+        },
+        {
+            "source": "the arbitrary body of revolution code (ABORC) for SGEMP/IEMP",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "wire-bond electrical connections: testing, fabrication and degradation -- a bibliography 1957-1971",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "synthesis of prostaglandins and eicosanoids by the mast cell secretory glandule",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "aeroradioactivity survey and areal geology of parts of Ohio and Indiana (ARMS-I) ",
+            "target": "1966",
+            "val": 1
+        },
+        {
+            "source": "acoustic emission from polycrystalline ceramics",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "study of the initial ionization process in a strong shock wave",
+            "target": "1968",
+            "val": 1
+        },
+        {
+            "source": "the effects of ambient pressure on the tolerance of mice to air blast",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "a paradoxical role for eicosanoids: radioprotectants and radiosensitizers",
+            "target": "1998",
+            "val": 1
+        },
+        {
+            "source": "stress gage system for the megabar range (U)",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "radiation hardened microprocessor",
+            "target": "1979",
+            "val": 1
+        },
+        {
+            "source": "theoretical study of dissociative-recombination kinetics",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "an experimental study of the nonlinear propagation of an electromagnetic pulse through the ionosphere",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "the climatic effects of large injections of atmospheric smoke and dust: a study of climate feedback mechanisms with one- and three-dimensional climate models",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "measurement of thermal radiation incident on naval aircraft in flight in operations Redwing, Plumbbob, and Hardtack",
+            "target": "1959",
+            "val": 1
+        },
+        {
+            "source": "is all radiation-induced emesis ameliorated by 5-HT3 receptor antagonists?",
+            "target": "1992",
+            "val": 1
+        },
+        {
+            "source": "biometrical analysis of biomedical response data",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "characterization of the dynamic behavior of porous solids Volume 4 - electron beam studies of porous beryllium and porous ceramics",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "summary information on accidental releases of radioactivity to the atmosphere from underground nuclear detonations designed for containment August 5, 1963 - June 30, 1971",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "electromagnetic pulse enviroment studies Volume II Late-time, high-altitude electromagnetic pulse code development",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "modulation of an intense beam by an external microwave source -- theory and simulation",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "operation Dominic, fish bowl series project officer's report  - project 2.1 External neutron flux measurements",
+            "target": "1963",
+            "val": 1
+        },
+        {
+            "source": "theoretical studies of SGEMP field generation",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "positive ion densities from a rocket borne hemispherical langmuir probe: 40 to 100 km.",
+            "target": "1970",
+            "val": 1
+        },
+        {
+            "source": "operation Hardtack project 34.1 Physical damage survey of AEC test structures",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "recovery of mill race ground motion canisters and examination of canister emplacement",
+            "target": "1983",
+            "val": 1
+        },
+        {
+            "source": "multimegaton weapons the largest nuclear weapons",
+            "target": "2005",
+            "val": 1
+        },
+        {
+            "source": "environmental radioactivity in Denmark in 1986",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "initial radiation spectra definition",
+            "target": "1967",
+            "val": 1
+        },
+        {
+            "source": "project dugout: apparent crater studies",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "DTRA connection (periodical)",
+            "target": "2002",
+            "val": 1
+        },
+        {
+            "source": "the meaning and utility of confidence",
+            "target": "1992",
+            "val": 1
+        },
+        {
+            "source": "operation upshot-knothole: tests on the loading of truss systems common to open-framed structures",
+            "target": "1953",
+            "val": 1
+        },
+        {
+            "source": "development of advanced constitutive models for plain and reinforced concrete",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "free-radical yields in proton irradiation of oriented DNA: relationship to energy transfer along DNA chains",
+            "target": "1993",
+            "val": 1
+        },
+        {
+            "source": "the propagation of shock waves",
+            "target": "1956",
+            "val": 1
+        },
+        {
+            "source": "plan for action for initiating operation roller coaster",
+            "target": "1963",
+            "val": 1
+        },
+        {
+            "source": "a comparison of the radiocardiogram and evans blue dye dilution cardiac output methods",
+            "target": "1959",
+            "val": 1
+        },
+        {
+            "source": "predictions of projectile penetration phenomena and comparison with experiments in a soil medium",
+            "target": "1975",
+            "val": 1
+        },
+        {
+            "source": "tests of biological integrity in dogs exposed to an electromagnetic pulse environment",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "gamma radiation affects active electrolyte transport",
+            "target": "1989",
+            "val": 1
+        },
+        {
+            "source": "reactions of active oxygen and nitrogen species studied by epr and spin trapping",
+            "target": "1993",
+            "val": 1
+        },
+        {
+            "source": "operation hardtack: temperature, density, pressure of upper atmosphere during a very-high-altitude nuclear detonation",
+            "target": "1958",
+            "val": 1
+        },
+        {
+            "source": "a review of calculations of radiation transport in air: theory, techniques, and computer code",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "first european conference on radiation and its effects on devices and systems",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "operation hardtack: ground motion produced by nuclear detonations",
+            "target": "1958",
+            "val": 1
+        },
+        {
+            "source": "atmospheric propagations from a nuclear explosion",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "radiation effects design handbook, section 3. electrical insulating materials and capacitors",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "PLACES aircraft experiment test results",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "test plan for improving guidance sled test capabilities",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "EMP protection for emergency operating centers",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "pressure and temperature on the wedge surface for mach reflection of strong shock waves",
+            "target": "1970",
+            "val": 1
+        },
+        {
+            "source": "crown fires: final report",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "the role of general circulation of the atmosphere in radioactive debris transport",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "lateral variations in geologic structure and tectonic setting from remote sensing data",
+            "target": "1983",
+            "val": 1
+        },
+        {
+            "source": "user's manual for the dynacyl IEMP air pressure effects computer code",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "project buggy: preshot geologic and engineering properties investigations",
+            "target": "1969",
+            "val": 1
+        },
+        {
+            "source": "electrical integration circuits for use with PZ accelerometers for field measurements of velocity",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "theoretical studies of atomic transitions and interatomic interactions",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "operations Nougat, Flintlock, Latchkey, Bowline, and Emery",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "phenomenology of contained nuclear explosions",
+            "target": "1959",
+            "val": 1
+        },
+        {
+            "source": "mathematical modeling and sensitivity analysis of radiation effects on semiconductor junctions",
+            "target": "1970",
+            "val": 1
+        },
+        {
+            "source": "7912AD programmer digitizer evaluation",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "DTRA connection (periodical)",
+            "target": "August 2004",
+            "val": 1
+        },
+        {
+            "source": "hiris experiment - chatanika radar results ",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "fireball and shockwave anomalies observed in chemical explosions",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "the origin of shockwaves from spherical condensed explosions in air Part 3 The first three stages of explosion at ambient conditions",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "Dominic - Bluestone fireball yield photography and calculations Preliminary report",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "announced united states nuclear tests July 1945 through December 1989",
+            "target": "1990",
+            "val": 1
+        },
+        {
+            "source": "calculations of three test problems by the 3-D tranal code",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "hele-shaw cell experiments for simulation of structures in high-altitude plasmas",
+            "target": "1980",
+            "val": 1
+        },
+        {
+            "source": "bibiliography of soviet laser developments",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "measurements of artificially injected electrons from satellite 1962 beta kappa",
+            "target": "1963",
+            "val": 1
+        },
+        {
+            "source": "the artificial radiation belt made on July 9, 1962",
+            "target": "1963",
+            "val": 1
+        },
+        {
+            "source": "phenonema at a focus in a laser system",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "airblast experiments for the m-x spur",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "operation Dominic, Fish bowl series Project operator's report - Project 6.1 Fireball attenuation and refraction",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "interpretation of our present terrestrial climatic record",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "shock strength versus range from underwater nuclear explosions",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "effects of central nervous system irradiation of human performance, blood pressure and emotional state",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "calculation and modeling of the attitude for the combined release and radiation effects satellite",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "discrimination studies using short-period P waves at upper mantle distances",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "Foreign Affairs, Summer 1985 (periodical)",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "reactions of UO+ with atmospheric gases",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "mabs monograph airblast instrumentation 1943-1993",
+            "target": "1995",
+            "val": 1
+        },
+        {
+            "source": "operation Teapot gamma radiation as a function of distance Project 13.3a",
+            "target": "1955",
+            "val": 1
+        },
+        {
+            "source": "critical loads for reinforced concrete bunkers",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "project Danny Boy Nevada test site long range air-blast measurements and interpretations",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "damage analysis of local operating systems",
+            "target": "1979",
+            "val": 1
+        },
+        {
+            "source": "mathematical approaches to WMD defense and vulnerability assessments of dynamic networks",
+            "target": "2016",
+            "val": 1
+        },
+        {
+            "source": "a review of geomechanics data from french nuclear explosions in the hoggar granite, with some comparisons to tests in U.S. granite",
+            "target": "1983",
+            "val": 1
+        },
+        {
+            "source": "measurement of isochoric pressure-energy relations for porous materials Part I Stress-matching technique and reference material results",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "materials properties test 2 (mp-2) review and final data analysis",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "integrated battlefield effects research for the national training center",
+            "target": "1984",
+            "val": 1
+        },
+        {
+            "source": "SKYNET applications software package (SASP) operator's and user's handbook",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "operation Plumbbob project 2.2 neutron-induced activities in soil elements",
+            "target": "1959",
+            "val": 1
+        },
+        {
+            "source": "survey of laser-produced pressure and impulse data",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "radio frequency radiation hazards to personnel",
+            "target": "1968",
+            "val": 1
+        },
+        {
+            "source": "description of the Lincoln laboratory wideband ELF noise recording systems",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "a knack for knowledge acquisition",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "atmospheric transport and diffusion in the planetary boundary layer",
+            "target": "1967",
+            "val": 1
+        },
+        {
+            "source": "relating deformations to hot spots in shock-loaded crystals of ammonium perchlorate",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "operation Wigwam project 4.2 weapons assembly",
+            "target": "1955",
+            "val": 1
+        },
+        {
+            "source": "Bikini-Eniwetok studies, 1964 Part I. Ecological observations.",
+            "target": "1966",
+            "val": 1
+        },
+        {
+            "source": "operation Dominic, Fish bowl series Project officer's report - project 6.11 HF communications experiment",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "pre-meeting reading material for 12 and 13 july 1960 meeting of weapons effects board (FWERB) panel on residual radiation and fallout",
+            "target": "1960",
+            "val": 1
+        },
+        {
+            "source": "estimates of air column density evolution behind strong airblasts",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "comparison of signal scintillation models",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "a parameter estimation algorithm and extensive numerical simulations for the cap model",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "operation Redwing project 2.62a fallout studies by oceanographic methods",
+            "target": "1956",
+            "val": 1
+        },
+        {
+            "source": "enhancing the potential for postattack recovery final report",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "plowshare technology assessment. the nuclear device",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "the soviet union and the strategic defense initiative: preliminary findings and impressions",
+            "target": "1986",
+            "val": 1
+        },
+        {
+            "source": "vela uniform program Sterling event",
+            "target": "1968",
+            "val": 1
+        },
+        {
+            "source": "effects of a NBC nutrient solution on physiological and psychological status during sustained activity in the heat",
+            "target": "1987",
+            "val": 1
+        },
+        {
+            "source": "development and tests of a low cost passive millimeter wave sensor",
+            "target": "1997",
+            "val": 1
+        },
+        {
+            "source": "the construction industry: vulnerability to nuclear attack and postattack capabilities",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "DTRA connection (periodical)",
+            "target": "April 2005",
+            "val": 1
+        },
+        {
+            "source": "structural instability under time-dependent loads",
+            "target": "1958",
+            "val": 1
+        },
+        {
+            "source": "radiosensitivity of certain perennial shrub species based on a study of the nuclear excavation experiment, Palanquin, with other observations of effects on the vegetation",
+            "target": "1969",
+            "val": 1
+        },
+        {
+            "source": "gamma radiation (5-10 gy) impairs neuronal function in the guinea pig hippocampus",
+            "target": "1993",
+            "val": 1
+        },
+        {
+            "source": "staggered solution procedures for doubly asymptoptic fluid-structure interaction analysis",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "radiation response of optically-triggered GaAs thyristors",
+            "target": "1998",
+            "val": 1
+        },
+        {
+            "source": "nonlinear transient shock response analysis for submerged shell structures",
+            "target": "1980",
+            "val": 1
+        },
+        {
+            "source": "mx mps deployment an on-site fallout evaluation",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "analysis of semiconductor structures by nuclear and electrical techniques",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "boundary layer measurement program volume I - boundary layer acoustic monitor development characterization and installation",
+            "target": "1978",
+            "val": 1
+        },
+        {
+            "source": "genetic markers of host resistance and/or susceptibility to the lethal effects of radiation and combined radiation-burn injuries",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "salmon event feasibility of cavity pressure and temperature measurements for a decoupled nuclear explosion",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "project cochise: concept and status",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "production of strongly overdriven plane detonation waves in condensed explosives",
+            "target": "1965",
+            "val": 1
+        },
+        {
+            "source": "project Shoal: analysis of shoal data on ground motion and containment",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "high-pressure mechanical properties of merlin alluvium",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "valve opening time requirements for LB/TS",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "effects of explosions in shallow water",
+            "target": "1953",
+            "val": 1
+        },
+        {
+            "source": "operation Redwing project 1.6 drag loading on model targets",
+            "target": "1959",
+            "val": 1
+        },
+        {
+            "source": "operation Upshot-knothole: exposure of drugs to nuclear explosions, project 22.4",
+            "target": "1953",
+            "val": 1
+        },
+        {
+            "source": "blanca - a study of the maximum vertical earth motion of the mesa slope",
+            "target": "1960",
+            "val": 1
+        },
+        {
+            "source": "operation Plumbbob technical summary of military effects, programs 1-9",
+            "target": "1962",
+            "val": 1
+        },
+        {
+            "source": "in situ stress gauge calibration",
+            "target": "1977",
+            "val": 1
+        },
+        {
+            "source": "implications of the \"nuclear winter\" thesis",
+            "target": "1985",
+            "val": 1
+        },
+        {
+            "source": "oral aminoglycoside and ofloxacin therapy in the prevention of gram-negative sepsis after irradiation",
+            "target": "1991",
+            "val": 1
+        },
+        {
+            "source": "aircraftborne instrumentation for airglow survey",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "digital filters for explosion effects analysis",
+            "target": "1971",
+            "val": 1
+        },
+        {
+            "source": "operation Greenhouse measurement of surface-air movements associated with atomic blasts",
+            "target": "1951",
+            "val": 1
+        },
+        {
+            "source": "blast effects on fires",
+            "target": "1980",
+            "val": 1
+        },
+        {
+            "source": "hardness, mobility, dispersion, redundancy and mission effectiveness under nuclear attack",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "ocular thermal injury from intense light",
+            "target": "1982",
+            "val": 1
+        },
+        {
+            "source": "icecap '75 -- Chatanika radar results",
+            "target": "1976",
+            "val": 1
+        },
+        {
+            "source": "biologically damaging radiation amplified by ozone depletions",
+            "target": "1981",
+            "val": 1
+        },
+        {
+            "source": "evaluated neutron-interaction and gamma-ray production cross sections of 9Be for the Defense Nuclear Agency working cross-section library",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "investigation of expanding grout and concrete",
+            "target": "1973",
+            "val": 1
+        },
+        {
+            "source": "low energy interaction studies by a merging beams technique",
+            "target": "1969",
+            "val": 1
+        },
+        {
+            "source": "operation Castle project 4.1 addendum exposure of Marshall islanders and American military personnel to fallout",
+            "target": "1957",
+            "val": 1
+        },
+        {
+            "source": "beam optics test stand",
+            "target": "1988",
+            "val": 1
+        },
+        {
+            "source": "operation Teapot project 6.1.1b evaluation of a radiological defense warning system (project Cloudburst)",
+            "target": "1957",
+            "val": 1
+        },
+        {
+            "source": "operation Hardtack project 1.9 Loading on buried simulated structures in high-overpressure regions ",
+            "target": "1961",
+            "val": 1
+        },
+        {
+            "source": "Dominic - Truckee fireball yield photography and calculations preliminary report",
+            "target": "1964",
+            "val": 1
+        },
+        {
+            "source": "the variation of the ignition temperature of solid explosives as a function of heating rate",
+            "target": "1993",
+            "val": 1
+        },
+        {
+            "source": "a discrete Eulerian model for spherical wave propagation in compressible media",
+            "target": "1968",
+            "val": 1
+        },
+        {
+            "source": "methods of measurement for semiconductor materials, process control, and devices",
+            "target": "1972",
+            "val": 1
+        },
+        {
+            "source": "conversion of the dragnet code to the illiac IV",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "infrared vidicon development",
+            "target": "1974",
+            "val": 1
+        },
+        {
+            "source": "DTRA Connection (periodical)",
+            "target": "2003",
+            "val": 1
+        },
+        {
+            "source": "ignition of materials by large yield nuclear weapons for various burst heights and atmospheric conditions",
+            "target": "1963",
+            "val": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": "anchor",
+            "id": "2016",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1985",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1982",
+            "val": "7"
+        },
+        {
+            "group": "anchor",
+            "id": "1978",
+            "val": "9"
+        },
+        {
+            "group": "anchor",
+            "id": "1987",
+            "val": "14"
+        },
+        {
+            "group": "anchor",
+            "id": "1974",
+            "val": "11"
+        },
+        {
+            "group": "anchor",
+            "id": "1977",
+            "val": "7"
+        },
+        {
+            "group": "anchor",
+            "id": "1969",
+            "val": "4"
+        },
+        {
+            "group": "anchor",
+            "id": "1965",
+            "val": "10"
+        },
+        {
+            "group": "anchor",
+            "id": "1966",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "1991",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1986",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1975",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "1973",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1983",
+            "val": "5"
+        },
+        {
+            "group": "anchor",
+            "id": "1972",
+            "val": "17"
+        },
+        {
+            "group": "anchor",
+            "id": "1962",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1958",
+            "val": "5"
+        },
+        {
+            "group": "anchor",
+            "id": "1981",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "2007",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1967",
+            "val": "4"
+        },
+        {
+            "group": "anchor",
+            "id": "1952",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1963",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1955",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "1999",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1964",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1989",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1971",
+            "val": "7"
+        },
+        {
+            "group": "anchor",
+            "id": "1988",
+            "val": "6"
+        },
+        {
+            "group": "anchor",
+            "id": "1976",
+            "val": "8"
+        },
+        {
+            "group": "anchor",
+            "id": "1968",
+            "val": "4"
+        },
+        {
+            "group": "anchor",
+            "id": "1998",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1979",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1959",
+            "val": "5"
+        },
+        {
+            "group": "anchor",
+            "id": "1992",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1970",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "2005",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "2002",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1953",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "1993",
+            "val": "4"
+        },
+        {
+            "group": "anchor",
+            "id": "1956",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "2004",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1990",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1980",
+            "val": "3"
+        },
+        {
+            "group": "anchor",
+            "id": "1995",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1984",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1960",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1997",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1951",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "1957",
+            "val": "2"
+        },
+        {
+            "group": "anchor",
+            "id": "1961",
+            "val": "1"
+        },
+        {
+            "group": "anchor",
+            "id": "2003",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "development of compositionally graded metallic glass alloys with desirable properties",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "projections of plasma cloud structures and their spectra",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "efficient elastic-plastic design of small foundations",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "analysis of UHF radar data-stress series",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "forward and inverse modeling of near-field seismic waveforms from underground nuclear explosions for effective source functions and structure parameters",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "prediction of aircraft ground performance by evaluation of ground vehicle rut depths",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "parameter estimation for generator simulation studies",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "evaluation of fallout contamination from surface runoff",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the atmospheric chemical kinetics of N2O",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Marshall Ogarkov on modern war 1977-1985",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "development of an improved land-surface fallout model",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "high energy proten SEU* test results for the commercially available MIPS R3000 microprocessor and R3010 floating point unit**",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "some aspects of shock-wave research",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "rat monocytes in a model of combined injury express the OX8 antigen",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "complementary-symmetry / metal oxide semiconductor (CMOS) circuit hardening",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "MAZE 3 - a sequential computer spectral enhancement code",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "charge collection in GaAs MESFETs and MOSFETs",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the impact of strong scintillation on space based radar design-nonherent detection",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a triaxial accelerometer system for air density measurements",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "community shelter report",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project dribble - salmon event on-site health and safety report ",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Hardtack project 4.3 effect of light from very-low-yield nuclear detonations on vision (dazzle) of combat personnel",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "dynamic pressure impulse for near-ideal and non-ideal blast waves - height of burst charts (u)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "verification and validation of social science simulations: some thoughts for consideration in national security applications",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the Kelvin-Helmholtz instability and turbulent mixing",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "coupled barium cloud-ionosphere systems 3. neutral wind effects in the small cloud approximation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Effects of a phorbol ester on rat aortic contraction and calcium influx in the presence and absence of BAY k 8644 ",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the delta-four-stream approximation for radiative flux transfer",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a comparison of long shot and earthquakes",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "evaluation of military individual and collective protection devices and clothing",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the problem of induced \"block motion\" related to deep underground strategic facilities - a summary",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the effects of a changing gamma-ray fallout spectrum on the ground roughness factor",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Millstone Hill radar propagtion study: instrumentation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Plumbbob project 33.2 secondary missiles generated by nuclear-produced blast waves",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "absolute yields of x-ray induced photoemission from metals",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Upshot-Knothole project 5.3 blast effects on B-36 type aircraft in flight",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "departure from LTE in an oxygen plasma II. collisional-radiative model",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "stable pyrolysis products of cellulose exposed to intense thermal radiation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a master event strategy for location with seismic array data",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "comments on \"minimizing the consequences of nuclear warfare\" by Carl Sagan",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operations Charioteer, Musketeer, Touchstone, Cornerstone, Aqueduct, Sculpin and Julin",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Dominic, fish bowl series project operator's report - project 6.2 Gamma-ray scanning of debris cloud",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "neutron-field and induced-activity measurements - operation Bren",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "applicability of absorber-ratio methods to beam-plasma systems",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "chemical laser reactions cross-section measurements",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "preparation and care of the area postrema-lesioned cat",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "optical heterodyne detection of an atmospherically distorted signal wave front",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "propagation effects in space-based surveillance systems",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a study of equations of state/opacity of ionized gases",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "electron beam conditioning of carbon phenolic ablator surface",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "F-14 scale model measurements part I, external response",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project dribble - salmon event ground-water safety",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Teapot Nevada test site project 35.5 effects of a nuclear explosion on records and record storage equipment",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Fulcrum onsite radiological safety report October 1976 through September 1977",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "high frequency seismic source characteristics of cavity decoupled underground nuclear explosions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "inelastic neutron scattering cross sections in several elements with 15 MEV neutrons",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the arbitrary body of revolution code (ABORC) for SGEMP/IEMP",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "wire-bond electrical connections: testing, fabrication and degradation -- a bibliography 1957-1971",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "synthesis of prostaglandins and eicosanoids by the mast cell secretory glandule",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "aeroradioactivity survey and areal geology of parts of Ohio and Indiana (ARMS-I) ",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "acoustic emission from polycrystalline ceramics",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "study of the initial ionization process in a strong shock wave",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the effects of ambient pressure on the tolerance of mice to air blast",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a paradoxical role for eicosanoids: radioprotectants and radiosensitizers",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "stress gage system for the megabar range (U)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "radiation hardened microprocessor",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "theoretical study of dissociative-recombination kinetics",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "an experimental study of the nonlinear propagation of an electromagnetic pulse through the ionosphere",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the climatic effects of large injections of atmospheric smoke and dust: a study of climate feedback mechanisms with one- and three-dimensional climate models",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "measurement of thermal radiation incident on naval aircraft in flight in operations Redwing, Plumbbob, and Hardtack",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "is all radiation-induced emesis ameliorated by 5-HT3 receptor antagonists?",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "biometrical analysis of biomedical response data",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "characterization of the dynamic behavior of porous solids Volume 4 - electron beam studies of porous beryllium and porous ceramics",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "summary information on accidental releases of radioactivity to the atmosphere from underground nuclear detonations designed for containment August 5, 1963 - June 30, 1971",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "electromagnetic pulse enviroment studies Volume II Late-time, high-altitude electromagnetic pulse code development",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "modulation of an intense beam by an external microwave source -- theory and simulation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Dominic, fish bowl series project officer's report  - project 2.1 External neutron flux measurements",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "theoretical studies of SGEMP field generation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "positive ion densities from a rocket borne hemispherical langmuir probe: 40 to 100 km.",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Hardtack project 34.1 Physical damage survey of AEC test structures",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "recovery of mill race ground motion canisters and examination of canister emplacement",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "multimegaton weapons the largest nuclear weapons",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "environmental radioactivity in Denmark in 1986",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "initial radiation spectra definition",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project dugout: apparent crater studies",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "DTRA connection (periodical)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the meaning and utility of confidence",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation upshot-knothole: tests on the loading of truss systems common to open-framed structures",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "development of advanced constitutive models for plain and reinforced concrete",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "free-radical yields in proton irradiation of oriented DNA: relationship to energy transfer along DNA chains",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the propagation of shock waves",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "plan for action for initiating operation roller coaster",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a comparison of the radiocardiogram and evans blue dye dilution cardiac output methods",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "predictions of projectile penetration phenomena and comparison with experiments in a soil medium",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "tests of biological integrity in dogs exposed to an electromagnetic pulse environment",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "gamma radiation affects active electrolyte transport",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "reactions of active oxygen and nitrogen species studied by epr and spin trapping",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation hardtack: temperature, density, pressure of upper atmosphere during a very-high-altitude nuclear detonation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a review of calculations of radiation transport in air: theory, techniques, and computer code",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "first european conference on radiation and its effects on devices and systems",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation hardtack: ground motion produced by nuclear detonations",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "atmospheric propagations from a nuclear explosion",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "radiation effects design handbook, section 3. electrical insulating materials and capacitors",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "PLACES aircraft experiment test results",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "test plan for improving guidance sled test capabilities",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "EMP protection for emergency operating centers",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "pressure and temperature on the wedge surface for mach reflection of strong shock waves",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "crown fires: final report",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the role of general circulation of the atmosphere in radioactive debris transport",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "lateral variations in geologic structure and tectonic setting from remote sensing data",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "user's manual for the dynacyl IEMP air pressure effects computer code",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project buggy: preshot geologic and engineering properties investigations",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "electrical integration circuits for use with PZ accelerometers for field measurements of velocity",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "theoretical studies of atomic transitions and interatomic interactions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operations Nougat, Flintlock, Latchkey, Bowline, and Emery",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "phenomenology of contained nuclear explosions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "mathematical modeling and sensitivity analysis of radiation effects on semiconductor junctions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "7912AD programmer digitizer evaluation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "DTRA connection (periodical)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "hiris experiment - chatanika radar results ",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "fireball and shockwave anomalies observed in chemical explosions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the origin of shockwaves from spherical condensed explosions in air Part 3 The first three stages of explosion at ambient conditions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Dominic - Bluestone fireball yield photography and calculations Preliminary report",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "announced united states nuclear tests July 1945 through December 1989",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "calculations of three test problems by the 3-D tranal code",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "hele-shaw cell experiments for simulation of structures in high-altitude plasmas",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "bibiliography of soviet laser developments",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "measurements of artificially injected electrons from satellite 1962 beta kappa",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the artificial radiation belt made on July 9, 1962",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "phenonema at a focus in a laser system",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "airblast experiments for the m-x spur",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Dominic, Fish bowl series Project operator's report - Project 6.1 Fireball attenuation and refraction",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "interpretation of our present terrestrial climatic record",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "shock strength versus range from underwater nuclear explosions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "effects of central nervous system irradiation of human performance, blood pressure and emotional state",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "calculation and modeling of the attitude for the combined release and radiation effects satellite",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "discrimination studies using short-period P waves at upper mantle distances",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Foreign Affairs, Summer 1985 (periodical)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "reactions of UO+ with atmospheric gases",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "mabs monograph airblast instrumentation 1943-1993",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Teapot gamma radiation as a function of distance Project 13.3a",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "critical loads for reinforced concrete bunkers",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project Danny Boy Nevada test site long range air-blast measurements and interpretations",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "damage analysis of local operating systems",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "mathematical approaches to WMD defense and vulnerability assessments of dynamic networks",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a review of geomechanics data from french nuclear explosions in the hoggar granite, with some comparisons to tests in U.S. granite",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "measurement of isochoric pressure-energy relations for porous materials Part I Stress-matching technique and reference material results",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "materials properties test 2 (mp-2) review and final data analysis",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "integrated battlefield effects research for the national training center",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "SKYNET applications software package (SASP) operator's and user's handbook",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Plumbbob project 2.2 neutron-induced activities in soil elements",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "survey of laser-produced pressure and impulse data",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "radio frequency radiation hazards to personnel",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "description of the Lincoln laboratory wideband ELF noise recording systems",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a knack for knowledge acquisition",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "atmospheric transport and diffusion in the planetary boundary layer",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "relating deformations to hot spots in shock-loaded crystals of ammonium perchlorate",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Wigwam project 4.2 weapons assembly",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Bikini-Eniwetok studies, 1964 Part I. Ecological observations.",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Dominic, Fish bowl series Project officer's report - project 6.11 HF communications experiment",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "pre-meeting reading material for 12 and 13 july 1960 meeting of weapons effects board (FWERB) panel on residual radiation and fallout",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "estimates of air column density evolution behind strong airblasts",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "comparison of signal scintillation models",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a parameter estimation algorithm and extensive numerical simulations for the cap model",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Redwing project 2.62a fallout studies by oceanographic methods",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "enhancing the potential for postattack recovery final report",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "plowshare technology assessment. the nuclear device",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the soviet union and the strategic defense initiative: preliminary findings and impressions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "vela uniform program Sterling event",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "effects of a NBC nutrient solution on physiological and psychological status during sustained activity in the heat",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "development and tests of a low cost passive millimeter wave sensor",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the construction industry: vulnerability to nuclear attack and postattack capabilities",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "DTRA connection (periodical)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "structural instability under time-dependent loads",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "radiosensitivity of certain perennial shrub species based on a study of the nuclear excavation experiment, Palanquin, with other observations of effects on the vegetation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "gamma radiation (5-10 gy) impairs neuronal function in the guinea pig hippocampus",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "staggered solution procedures for doubly asymptoptic fluid-structure interaction analysis",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "radiation response of optically-triggered GaAs thyristors",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "nonlinear transient shock response analysis for submerged shell structures",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "mx mps deployment an on-site fallout evaluation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "analysis of semiconductor structures by nuclear and electrical techniques",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "boundary layer measurement program volume I - boundary layer acoustic monitor development characterization and installation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "genetic markers of host resistance and/or susceptibility to the lethal effects of radiation and combined radiation-burn injuries",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "salmon event feasibility of cavity pressure and temperature measurements for a decoupled nuclear explosion",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project cochise: concept and status",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "production of strongly overdriven plane detonation waves in condensed explosives",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "project Shoal: analysis of shoal data on ground motion and containment",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "high-pressure mechanical properties of merlin alluvium",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "valve opening time requirements for LB/TS",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "effects of explosions in shallow water",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Redwing project 1.6 drag loading on model targets",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Upshot-knothole: exposure of drugs to nuclear explosions, project 22.4",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "blanca - a study of the maximum vertical earth motion of the mesa slope",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Plumbbob technical summary of military effects, programs 1-9",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "in situ stress gauge calibration",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "implications of the \"nuclear winter\" thesis",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "oral aminoglycoside and ofloxacin therapy in the prevention of gram-negative sepsis after irradiation",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "aircraftborne instrumentation for airglow survey",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "digital filters for explosion effects analysis",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Greenhouse measurement of surface-air movements associated with atomic blasts",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "blast effects on fires",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "hardness, mobility, dispersion, redundancy and mission effectiveness under nuclear attack",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "ocular thermal injury from intense light",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "icecap '75 -- Chatanika radar results",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "biologically damaging radiation amplified by ozone depletions",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "evaluated neutron-interaction and gamma-ray production cross sections of 9Be for the Defense Nuclear Agency working cross-section library",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "investigation of expanding grout and concrete",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "low energy interaction studies by a merging beams technique",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Castle project 4.1 addendum exposure of Marshall islanders and American military personnel to fallout",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "beam optics test stand",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Teapot project 6.1.1b evaluation of a radiological defense warning system (project Cloudburst)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "operation Hardtack project 1.9 Loading on buried simulated structures in high-overpressure regions ",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "Dominic - Truckee fireball yield photography and calculations preliminary report",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "the variation of the ignition temperature of solid explosives as a function of heating rate",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "a discrete Eulerian model for spherical wave propagation in compressible media",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "methods of measurement for semiconductor materials, process control, and devices",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "conversion of the dragnet code to the illiac IV",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "infrared vidicon development",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "DTRA Connection (periodical)",
+            "val": "1"
+        },
+        {
+            "group": "title",
+            "id": "ignition of materials by large yield nuclear weapons for various burst heights and atmospheric conditions",
+            "val": "1"
+        }
+    ]
+}
