@@ -111,7 +111,6 @@ if __name__ == '__main__':
     parser.add_argument(
         '-f', '--file',
         action='store_true',
-        nargs='?',
         help='If given, the bulk json files will be saved as files, using the name of slice as prefix.'
              f'Each file will include {BULK_SIZE} articles. '
     )
