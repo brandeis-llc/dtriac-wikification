@@ -1,6 +1,5 @@
 /force-graph
-
-
+**/*-bulk-*
 # linux
 *~
 .directory # KDE directory preferences
