@@ -15,6 +15,7 @@ wiki = wikipediaapi.Wikipedia(language='en', extract_format=wikipediaapi.Extract
 
 def get_categorymembers(categorymembers,
                         max_level,
+                        visited_articles,
                         visited_categories,
                         revisit_categories=False,
                         article_name=True,
@@ -25,31 +26,36 @@ def get_categorymembers(categorymembers,
     for cat in categorymembers.values():
         if article_name and not (ignore_special and cat.ns != wikipediaapi.Namespace.MAIN):
             out.write(f"{cat.title}\n")
+            visited_articles.add(cat.title)
         if cat.ns == wikipediaapi.Namespace.CATEGORY and level < max_level:
             if revisit_categories or cat.title not in visited_categories:
                 if category_name:
                     out.write(f"{'*' * (level+1)}: {cat.title}\n")
                 visited_categories.add(cat.title)
-                get_categorymembers(cat.categorymembers,
-                                    max_level=max_level,
-                                    visited_categories=visited_categories,
-                                    revisit_categories=revisit_categories,
-                                    article_name=article_name,
-                                    category_name=category_name,
-                                    level=level+1,
-                                    out=out,
-                                    ignore_special=ignore_special)
+                visited_articles.union(
+                    get_categorymembers(cat.categorymembers,
+                                        max_level=max_level,
+                                        visited_articles=visited_articles,
+                                        visited_categories=visited_categories,
+                                        revisit_categories=revisit_categories,
+                                        article_name=article_name,
+                                        category_name=category_name,
+                                        level=level+1,
+                                        out=out,
+                                        ignore_special=ignore_special)
+                )
+    return visited_articles
 
 
 def get_pages_only(root_category, out=sys.stdout):
     root_cat_page = wiki.page(f"Category:{root_category}")
-    get_categorymembers(root_cat_page.categorymembers, max_level=math.inf, visited_categories=set(), category_name=False, out=out)
+    return get_categorymembers(root_cat_page.categorymembers, max_level=math.inf, visited_articles=set(), visited_categories=set(), category_name=False, out=out)
 
 
 def get_category_tree(root_category, max_level, out=sys.stdout):
     root_cat_page = wiki.page(f"Category:{root_category}")
     out.write(f"*: {root_cat_page.title}\n")
-    get_categorymembers(root_cat_page.categorymembers, max_level=max_level, visited_categories=set(), out=out, article_name=False)
+    return get_categorymembers(root_cat_page.categorymembers, max_level=max_level, visited_articles=set(), visited_categories=set(), out=out, article_name=False)
 
 
 if __name__ == '__main__':
