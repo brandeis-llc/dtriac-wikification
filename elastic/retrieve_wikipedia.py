@@ -1,10 +1,9 @@
 """
 Provides helper functions for retrieving data from ES indices of wikipedia articles.
 """
-
 from os.path import join as pjoin
-from elasticsearch import Elasticsearch, helpers
-from config import ES_HOST
+from elasticsearch import helpers
+from . import es
 
 
 def export_es_data(es, out_dir, index_name, field, verbose=1):
@@ -56,5 +55,4 @@ if __name__ == "__main__":
              '<_id> is the index number of the document in the ES index. '
     )
     args = parser.parse_args()
-    es = Elasticsearch(ES_HOST)
     export_es_data(es, out_dir=args.outname, index_name=args.index, field=args.field)

@@ -15,8 +15,7 @@ import json
 from collections import Iterator
 from urllib import request
 
-from .config import ES_HOST
-from elasticsearch import Elasticsearch as ES
+from . import es
 from elasticsearch import helpers as es_helpers
 
 
@@ -29,12 +28,10 @@ def load_title_index(title_index_filename):
 
 
 def delete_es_index(index_name):
-    es = ES(ES_HOST)
     es.indices.delete(index=index_name, ignore=[400, 404])
 
 
 def create_wikipedia_es_index(index_name):
-    es = ES(ES_HOST)
     settings_dump_url = 'https://en.wikipedia.org/w/api.php?action=cirrus-settings-dump&format=json&formatversion=2'
     settings = json.loads((request.urlopen(settings_dump_url).read()))
     mappings_dump_url = 'https://en.wikipedia.org/w/api.php?action=cirrus-mapping-dump&format=json&formatversion=2'
@@ -59,7 +56,6 @@ def init_index(es_index_name):
 
 
 def index_from_bulkfiles(bulk_file_prefix, es_index_name):
-    es = ES(ES_HOST, timeout=30, max_retries=10, retry_on_timeout=True)
     for bulk_file in glob.glob(f"{bulk_file_prefix}*"):
         es.bulk(body=open(bulk_file), index=es_index_name)
 
@@ -68,7 +64,6 @@ def index_from_bulkiterator(documents: Iterator, es_index_name):
     """
     Note that bulkiterator coming from `slice` module should have es index name encoded in the json
     """
-    es = ES(ES_HOST, timeout=30, max_retries=10, retry_on_timeout=True)
     es_helpers.bulk(es, documents, index=es_index_name)
 
 
