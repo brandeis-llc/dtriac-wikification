@@ -12,7 +12,7 @@ class WikifyByES(Wikifier):
         q = Search(using=self.es, index=self.index_name).query("match", text=text)
         hits = q.execute()
         try:
-            return [hit.title for hit in hits[0:min(self.wikification_size, len(hits))]]
+            return [{'title': hit.title, 'score': hit.meta.score} for hit in hits[0:min(self.wikification_size, len(hits))]]
         except IndexError:
             return None
 
