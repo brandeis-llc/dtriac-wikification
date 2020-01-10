@@ -6,5 +6,5 @@ setuptools.setup(
     author="Brandeis Lab for Linguistics and Computation",
     description="Slicing wikiump and performing document-level wikication",
     url="https://not.yet.available.io",
-    packages=['wikification']
+    packages=setuptools.find_packages()
 )
