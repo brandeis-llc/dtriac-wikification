@@ -1,4 +1,4 @@
-import elastic
+from .. import elastic
 from elasticsearch_dsl import Search
 from . import Wikifier
 
