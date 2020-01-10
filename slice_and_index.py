@@ -1,5 +1,6 @@
-from slice import slice_category, slice_dump
-from elastic import index_wikipedia
+from wikification.slice import slice_dump
+from wikification.slice import slice_category
+from wikification.elastic import index_wikipedia
 
 if __name__ == '__main__':
     import argparse
