@@ -23,27 +23,37 @@ def get_categorymembers(categorymembers,
                         level=1,
                         out=sys.stdout,
                         ignore_special=True):
+    pages = []
+    subcats = []
     for cat in categorymembers.values():
-        if article_name and not (ignore_special and cat.ns != wikipediaapi.Namespace.MAIN):
-            out.write(f"{cat.title}\n")
+        #  if article_name and not (ignore_special and cat.ns != wikipediaapi.Namespace.MAIN):
+        if not (ignore_special and cat.ns != wikipediaapi.Namespace.MAIN):
+            pages.append(cat)
+            #  out.write(f"{cat.title}\n")
             visited_articles.add(cat.title)
         if cat.ns == wikipediaapi.Namespace.CATEGORY and level < max_level:
             if revisit_categories or cat.title not in visited_categories:
-                if category_name:
-                    out.write(f"{'*' * (level+1)}: {cat.title}\n")
-                visited_categories.add(cat.title)
-                visited_articles.union(
-                    get_categorymembers(cat.categorymembers,
-                                        max_level=max_level,
-                                        visited_articles=visited_articles,
-                                        visited_categories=visited_categories,
-                                        revisit_categories=revisit_categories,
-                                        article_name=article_name,
-                                        category_name=category_name,
-                                        level=level+1,
-                                        out=out,
-                                        ignore_special=ignore_special)
-                )
+                subcats.append(cat)
+    out.write(f'{len(pages)}\n')
+    if article_name:
+        for page in pages:
+            out.write(f"{page.title}\n")
+    for subcat in subcats:
+        if category_name:
+            out.write(f"{'*' * (level+1)}: {subcat.title}\n")
+        visited_categories.add(subcat.title)
+        visited_articles.union(
+            get_categorymembers(subcat.categorymembers,
+                                max_level=max_level,
+                                visited_articles=visited_articles,
+                                visited_categories=visited_categories,
+                                revisit_categories=revisit_categories,
+                                article_name=article_name,
+                                category_name=category_name,
+                                level=level+1,
+                                out=out,
+                                ignore_special=ignore_special)
+        )
     return visited_articles
 
 
