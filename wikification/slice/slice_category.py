@@ -40,7 +40,7 @@ def get_categorymembers(categorymembers,
             out.write(f"{page.title}\n")
     for subcat in subcats:
         if category_name:
-            out.write(f"{'*' * (level+1)}: {subcat.title}\n")
+            out.write(f"{'*' * (level+1)}: {subcat.title}\t")
         visited_categories.add(subcat.title)
         visited_articles.union(
             get_categorymembers(subcat.categorymembers,
@@ -64,7 +64,7 @@ def get_pages_only(root_category, out=sys.stdout):
 
 def get_category_tree(root_category, max_level, out=sys.stdout):
     root_cat_page = wiki.page(f"Category:{root_category}")
-    out.write(f"*: {root_cat_page.title}\n")
+    out.write(f"*: {root_cat_page.title}\t")
     return get_categorymembers(root_cat_page.categorymembers, max_level=max_level, visited_articles=set(), visited_categories=set(), out=out, article_name=False)
 
 
